@@ -1,13 +1,13 @@
 {
   "version": 1,
   "window": {
-    "startUtc": "2026-11-16T15:59:47.000Z",
-    "endUtc": "2026-11-16T20:59:47.000Z"
+    "startUtc": "2026-11-17T23:33:33.000Z",
+    "endUtc": "2026-11-18T04:33:33.000Z"
   },
-  "updatedAtUtc": "2026-11-16T17:25:31.884Z",
+  "updatedAtUtc": "2026-11-17T23:51:25.052Z",
   "checkWindow": {
-    "startUtc": "2026-11-16T15:59:47.000Z",
-    "endUtc": "2026-11-16T16:24:00.000Z"
+    "startUtc": "2026-11-17T23:33:33.000Z",
+    "endUtc": "2026-11-17T23:51:25.052Z"
   },
   "events": [
     {
@@ -1565,7 +1565,457 @@
       ],
       "publicRoom": true,
       "joinUrl": "https://uclahs.zoom.us/j/96456661655?pwd=hTPdZbVy8ei6ZHZXiG3jOUAJESs8Pb.1"
+    },
+    {
+      "id": "pg-20261118-050333-001",
+      "title": "UMA — Diversity Equity & Inclusion Action Club",
+      "organizer": "University of Maine at Augusta",
+      "category": "University / community",
+      "startUtc": "2026-11-17T23:00:00.000Z",
+      "endUtc": "2026-11-18T00:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.uma.edu/event/dei-action-club-meeting-11/",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-17T18:00:00-05:00",
+      "sourceLocalEnd": "2026-11-17T19:00:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "University club meeting; public join link",
+      "registrationUrl": "",
+      "accessNotes": "CONFIRMED — DIRECT JOIN",
+      "joinUrl": "https://maine.zoom.us/j/89221919444?pwd=AITRtysEThCS4stSRiaG4hmXE405al.1",
+      "publicRoom": true,
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://www.uma.edu/event/dei-action-club-meeting-11/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-002",
+      "title": "Northeastern — MS Applied Behavior Analysis Information Webinar",
+      "organizer": "Northeastern University",
+      "category": "University / career",
+      "startUtc": "2026-11-17T23:00:00.000Z",
+      "endUtc": "2026-11-18T00:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://graduate.northeastern.edu/events/master-of-science-in-applied-behavior-analysis-information-webinar-5/2026-11-17/",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-17T18:00:00-05:00",
+      "sourceLocalEnd": "2026-11-17T19:00:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Prospective students; form registration",
+      "registrationUrl": "https://connect.northeastern.edu/portal/msaba_information_webinar",
+      "accessNotes": "CONFIRMED — REGISTRATION REQUIRED",
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://graduate.northeastern.edu/events/master-of-science-in-applied-behavior-analysis-information-webinar-5/2026-11-17/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-011",
+      "title": "Sages Yoga — Early Morning Yoga",
+      "organizer": "Sages Yoga School",
+      "category": "Yoga / fitness",
+      "startUtc": "2026-11-17T23:30:00.000Z",
+      "endUtc": "2026-11-18T00:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.sagesyoga.com/online/daily-online-yoga-classes",
+      "verification": "needs-verification",
+      "route": "unresolved",
+      "costType": "paid",
+      "price": "₹1,299/month",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-18T05:00:00+05:30",
+      "sourceLocalEnd": "2026-11-18T06:00:00+05:30",
+      "sourceZone": "Asia/Kolkata",
+      "restriction": "Recurring timetable only; Nov 18 occurrence not confirmed",
+      "registrationUrl": "",
+      "accessNotes": "NEEDS MANUAL CHECK — Recurring timetable only; Nov 18 occurrence not confirmed",
+      "warning": "NEEDS MANUAL CHECK — Recurring timetable only; Nov 18 occurrence not confirmed",
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://www.sagesyoga.com/online/daily-online-yoga-classes"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-009",
+      "title": "Baylor Scott & White — Heart Healthy Holiday Meals",
+      "organizer": "Baylor Scott & White Health",
+      "category": "Healthcare / nutrition",
+      "startUtc": "2026-11-18T00:00:00.000Z",
+      "endUtc": "2026-11-18T01:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://ce.bswhealth.com/community-education/content/leap-life-heart-healthy-holiday-meals-november-17th-2026-6pm-7pm",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-17T18:00:00-06:00",
+      "sourceLocalEnd": "2026-11-17T19:00:00-06:00",
+      "sourceZone": "America/Chicago",
+      "restriction": "Cardiovascular health education; register for Zoom information",
+      "registrationUrl": "https://ce.bswhealth.com/community-education/content/leap-life-heart-healthy-holiday-meals-november-17th-2026-6pm-7pm",
+      "accessNotes": "CONFIRMED — REGISTRATION REQUIRED",
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://ce.bswhealth.com/community-education/content/leap-life-heart-healthy-holiday-meals-november-17th-2026-6pm-7pm"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-003",
+      "title": "Shambhala — Tuesday Evening Guided Meditation",
+      "organizer": "Shambhala",
+      "category": "Meditation / discussion",
+      "startUtc": "2026-11-18T00:30:00.000Z",
+      "endUtc": "2026-11-18T01:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://shambhala.org/event/864837-online-tuesday-evening-guided-meditation/",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "donation",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-17T18:30:00-06:00",
+      "sourceLocalEnd": "2026-11-17T19:30:00-06:00",
+      "sourceZone": "America/Chicago",
+      "restriction": "All welcome; Zoom details after free registration",
+      "registrationUrl": "https://shambhala.org/event/864837-online-tuesday-evening-guided-meditation/",
+      "accessNotes": "CONFIRMED — REGISTRATION REQUIRED",
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://shambhala.org/event/864837-online-tuesday-evening-guided-meditation/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-004",
+      "title": "Awake Yoga — Darshan Meditation & Discussion",
+      "organizer": "Awake Yoga Meditation",
+      "category": "Meditation / wellness",
+      "startUtc": "2026-11-18T00:30:00.000Z",
+      "endUtc": "2026-11-18T01:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.meetup.com/awakeyogameditation/events/317201986/",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-17T19:30:00-05:00",
+      "sourceLocalEnd": "2026-11-17T20:30:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Public; no membership restriction stated",
+      "registrationUrl": "",
+      "accessNotes": "CONFIRMED — DIRECT JOIN",
+      "joinUrl": "https://us02web.zoom.us/j/88590333111",
+      "publicRoom": true,
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://www.meetup.com/awakeyogameditation/events/317201986/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-005",
+      "title": "Buddha-CEO — Yogam Meditation",
+      "organizer": "Buddha-CEO Quantum Foundation",
+      "category": "Meditation / wellness",
+      "startUtc": "2026-11-18T00:30:00.000Z",
+      "endUtc": "2026-11-18T01:45:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.buddhaceo.org/yogam1",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-18T06:00:00+05:30",
+      "sourceLocalEnd": "2026-11-18T07:15:00+05:30",
+      "sourceZone": "Asia/Kolkata",
+      "restriction": "Professionals and meditation seekers; 40-day series",
+      "registrationUrl": "",
+      "accessNotes": "CONFIRMED — DIRECT JOIN",
+      "joinUrl": "https://zoom.us/j/97221469377",
+      "publicRoom": true,
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://www.buddhaceo.org/yogam1"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-012",
+      "title": "Celeste Greene — Free Laughter Yoga",
+      "organizer": "Celeste Greene Laughs",
+      "category": "Laughter yoga / wellness",
+      "startUtc": "2026-11-18T00:30:00.000Z",
+      "endUtc": "2026-11-18T01:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://celestegreenelaughs.com/free-online-laughter-classes/",
+      "verification": "needs-verification",
+      "route": "unresolved",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-17T19:30:00-05:00",
+      "sourceLocalEnd": "2026-11-17T20:00:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Recurring Tuesday class only; dated occurrence not confirmed",
+      "registrationUrl": "",
+      "accessNotes": "NEEDS MANUAL CHECK — Recurring Tuesday class only; dated occurrence not confirmed",
+      "warning": "NEEDS MANUAL CHECK — Recurring Tuesday class only; dated occurrence not confirmed",
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://celestegreenelaughs.com/free-online-laughter-classes/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-013",
+      "title": "Tushita Delhi — Morning Meditation",
+      "organizer": "Tushita Delhi",
+      "category": "Meditation",
+      "startUtc": "2026-11-18T01:30:00.000Z",
+      "endUtc": "2026-11-18T02:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://tushitadelhi.com/",
+      "verification": "needs-verification",
+      "route": "unresolved",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-18T07:00:00+05:30",
+      "sourceLocalEnd": "2026-11-18T07:30:00+05:30",
+      "sourceZone": "Asia/Kolkata",
+      "restriction": "Recurring Mon–Thu schedule only; individual Nov 18 date not confirmed",
+      "registrationUrl": "",
+      "accessNotes": "NEEDS MANUAL CHECK — Recurring Mon–Thu schedule only; individual Nov 18 date not confirmed",
+      "warning": "NEEDS MANUAL CHECK — Recurring Mon–Thu schedule only; individual Nov 18 date not confirmed",
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://tushitadelhi.com/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-006",
+      "title": "Thubten Norbu Ling — Self-Compassion Course",
+      "organizer": "Thubten Norbu Ling Buddhist Center",
+      "category": "Meditation / workshop",
+      "startUtc": "2026-11-18T02:00:00.000Z",
+      "endUtc": "2026-11-18T03:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://tnlsf.org/event/becoming-the-compassionate-friend-to-yourself-moving-from-low-self-esteem-to-self-compassion-2/",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "donation",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-17T19:00:00-07:00",
+      "sourceLocalEnd": "2026-11-17T20:30:00-07:00",
+      "sourceZone": "America/Denver",
+      "restriction": "Beginners; donations optional",
+      "registrationUrl": "",
+      "accessNotes": "CONFIRMED — DIRECT JOIN",
+      "joinUrl": "https://us02web.zoom.us/j/87022108703?pwd=czdqb0I5cTJsZ3YzYkpOektYaEdTdz09",
+      "publicRoom": true,
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://tnlsf.org/event/becoming-the-compassionate-friend-to-yourself-moving-from-low-self-esteem-to-self-compassion-2/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-010",
+      "title": "Houston DSA — Language Exchange for Organizing",
+      "organizer": "Houston DSA",
+      "category": "Community / languages",
+      "startUtc": "2026-11-18T02:00:00.000Z",
+      "endUtc": "2026-11-18T03:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://houstondsa.org/calendar/",
+      "verification": "needs-verification",
+      "route": "unresolved",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-17T20:00:00-06:00",
+      "sourceLocalEnd": "2026-11-17T21:00:00-06:00",
+      "sourceZone": "America/Chicago",
+      "restriction": "Zoom participation through organizer group chat; no public access URL",
+      "registrationUrl": "",
+      "accessNotes": "NEEDS MANUAL CHECK — Zoom participation through organizer group chat; no public access URL",
+      "warning": "NEEDS MANUAL CHECK — Zoom participation through organizer group chat; no public access URL",
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://houstondsa.org/calendar/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-007",
+      "title": "Insight Community of the Desert — Meditation as Refuge",
+      "organizer": "Insight Community of the Desert",
+      "category": "Meditation / community",
+      "startUtc": "2026-11-18T02:30:00.000Z",
+      "endUtc": "2026-11-18T04:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://desertinsight.org/event/online-meditation-as-refuge-2026-11-17/",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "donation",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-17T18:30:00-08:00",
+      "sourceLocalEnd": "2026-11-17T20:00:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "Open to all; no payment required",
+      "registrationUrl": "",
+      "accessNotes": "CONFIRMED — DIRECT JOIN",
+      "joinUrl": "https://us02web.zoom.us/j/81581516374?pwd=ck05SElLelNLeU80ek44UnZuQjhsZz09",
+      "publicRoom": true,
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://desertinsight.org/event/online-meditation-as-refuge-2026-11-17/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-014",
+      "title": "Sages Yoga — Morning Yoga",
+      "organizer": "Sages Yoga School",
+      "category": "Yoga / fitness",
+      "startUtc": "2026-11-18T02:30:00.000Z",
+      "endUtc": "2026-11-18T03:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.sagesyoga.com/online",
+      "verification": "needs-verification",
+      "route": "unresolved",
+      "costType": "paid",
+      "price": "₹1,299/month",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-18T08:00:00+05:30",
+      "sourceLocalEnd": "2026-11-18T09:00:00+05:30",
+      "sourceZone": "Asia/Kolkata",
+      "restriction": "Recurring timetable only; dated occurrence unverified",
+      "registrationUrl": "",
+      "accessNotes": "NEEDS MANUAL CHECK — Recurring timetable only; dated occurrence unverified",
+      "warning": "NEEDS MANUAL CHECK — Recurring timetable only; dated occurrence unverified",
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://www.sagesyoga.com/online"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-008",
+      "title": "Dzogchen West — Meditation and Dharma Q&A",
+      "organizer": "Dzogchen West",
+      "category": "Meditation / discussion",
+      "startUtc": "2026-11-18T03:00:00.000Z",
+      "endUtc": "2026-11-18T03:45:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.dzogchenwest.org/events",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-17T19:00:00-08:00",
+      "sourceLocalEnd": "2026-11-17T19:45:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "Everyone welcome; no registration",
+      "registrationUrl": "",
+      "accessNotes": "CONFIRMED — DIRECT JOIN",
+      "joinUrl": "https://us02web.zoom.us/j/280955590?pwd=T1pFY0srbi9hTUxYOCtZQXdBODhNUT09",
+      "publicRoom": true,
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://www.dzogchenwest.org/events"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-015",
+      "title": "Tushita Dharamsala — Guided Meditation",
+      "organizer": "Tushita Meditation Centre",
+      "category": "Meditation",
+      "startUtc": "2026-11-18T03:30:00.000Z",
+      "endUtc": "2026-11-18T04:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://tushita.info/events/category/meditation/",
+      "verification": "needs-verification",
+      "route": "unresolved",
+      "costType": "donation",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-18T09:00:00+05:30",
+      "sourceLocalEnd": "2026-11-18T10:00:00+05:30",
+      "sourceZone": "Asia/Kolkata",
+      "restriction": "Short course may suspend daily drop-ins",
+      "registrationUrl": "",
+      "accessNotes": "NEEDS MANUAL CHECK — Short course may suspend daily drop-ins",
+      "warning": "NEEDS MANUAL CHECK — Short course may suspend daily drop-ins",
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://tushita.info/events/category/meditation/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-050333-016",
+      "title": "Thubten Norbu Ling — Evening Purification",
+      "organizer": "Thubten Norbu Ling",
+      "category": "Meditation",
+      "startUtc": "2026-11-18T04:00:00.000Z",
+      "endUtc": "2026-11-18T04:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://tnlsf.org/events/2026-11-17/",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "donation",
+      "price": "",
+      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "sourceLocalStart": "2026-11-17T21:00:00-07:00",
+      "sourceLocalEnd": "2026-11-17T21:30:00-07:00",
+      "sourceZone": "America/Denver",
+      "restriction": "Intermediate; email host for room code",
+      "registrationUrl": "https://tnlsf.org/events/2026-11-17/",
+      "accessNotes": "CONFIRMED — REGISTRATION REQUIRED",
+      "evidence": [
+        {
+          "label": "Public organizer/event page",
+          "url": "https://tnlsf.org/events/2026-11-17/"
+        }
+      ]
     }
   ],
-  "feedRevision": "github-live-verified"
+  "feedRevision": "prompt-g-2026-11-18-050333-ist"
 }
