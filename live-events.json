@@ -1,13 +1,13 @@
 {
   "version": 1,
   "window": {
-    "startUtc": "2026-11-18T10:01:56.000Z",
-    "endUtc": "2026-11-18T15:01:56.000Z"
+    "startUtc": "2026-11-18T14:02:32.000Z",
+    "endUtc": "2026-11-18T19:02:32.000Z"
   },
-  "updatedAtUtc": "2026-11-18T10:03:05.000Z",
+  "updatedAtUtc": "2026-11-18T14:05:15.000Z",
   "checkWindow": {
-    "startUtc": "2026-11-18T10:01:56.000Z",
-    "endUtc": "2026-11-18T10:03:05.000Z"
+    "startUtc": "2026-11-18T14:02:32.000Z",
+    "endUtc": "2026-11-18T14:05:15.000Z"
   },
   "events": [
     {
@@ -495,6 +495,34 @@
       "checkedAtUtc": "2026-11-18T10:03:05.000Z"
     },
     {
+      "id": "pg-20261118-193232-015",
+      "title": "Wednesday 9 AM Exercise Meditation — Slow Flow",
+      "organizer": "Heartsong Yoga Center",
+      "category": "Yoga",
+      "startUtc": "2026-11-18T14:00:00.000Z",
+      "endUtc": "2026-11-18T15:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://heartsongyoga.punchpass.com/classes/20015159",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T09:00-05:00",
+      "sourceLocalEnd": "2026-11-18T10:00:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Booking account required; Zoom link 15 minutes before",
+      "registrationUrl": "https://heartsongyoga.punchpass.com/classes/20015159",
+      "accessNotes": "",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://heartsongyoga.punchpass.com/classes/20015159"
+        }
+      ]
+    },
+    {
       "id": "pg-20261118-153156-006",
       "title": "Yoga Moves — Reawakening Appreciative Joy",
       "organizer": "Yoga Moves / Whit Hornsberger",
@@ -537,6 +565,431 @@
       "platform": "Zoom",
       "verification": "verified",
       "checkedAtUtc": "2026-11-18T10:03:05.000Z"
+    },
+    {
+      "id": "pg-20261118-193232-006",
+      "title": "Breathe, Move, and Wellness Tips",
+      "organizer": "Methodist Health System",
+      "category": "Fitness / wellness",
+      "startUtc": "2026-11-18T15:00:00.000Z",
+      "endUtc": "2026-11-18T16:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://methodisthealthsystem.org/event/2026/11/18/breathe-move-and-wellness-tips",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T09:00-06:00",
+      "sourceLocalEnd": "2026-11-18T10:00:00-06:00",
+      "sourceZone": "America/Chicago",
+      "restriction": "Methodist Generations online; organizer says 30-minute activity though listing states 9–10 AM",
+      "registrationUrl": "",
+      "accessNotes": "Public meeting ID 930 1026 8362; exact duration conflicts, retain organizer listing's 60-minute window.",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://methodisthealthsystem.org/event/2026/11/18/breathe-move-and-wellness-tips"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-193232-007",
+      "title": "Floor Yoga — Wednesdays",
+      "organizer": "Atrium Health Levine Cancer",
+      "category": "Yoga / wellness",
+      "startUtc": "2026-11-18T15:00:00.000Z",
+      "endUtc": "2026-11-18T16:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://atriumhealth.org/events/floor-yoga-wednesdays-2026-november-18-2026",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "free",
+      "price": "Free",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T10:00-05:00",
+      "sourceLocalEnd": "2026-11-18T11:00:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "All levels; registration form asks patient/care-partner/teammate/other",
+      "registrationUrl": "https://atriumhealth.org/events/floor-yoga-wednesdays-2026-november-18-2026",
+      "accessNotes": "",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://atriumhealth.org/events/floor-yoga-wednesdays-2026-november-18-2026"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-193232-008",
+      "title": "Gentle Yoga — Wednesday",
+      "organizer": "Cancer Wellness Center",
+      "category": "Yoga / wellness",
+      "startUtc": "2026-11-18T15:30:00.000Z",
+      "endUtc": "2026-11-18T16:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.cancerwellness.org/events/gentle-yoga-280-3-2/2026-11-18/",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T09:30-06:00",
+      "sourceLocalEnd": "2026-11-18T10:30:00-06:00",
+      "sourceZone": "America/Chicago",
+      "restriction": "First-time attendees asked to call; cancer-related eligibility stated for in-person participation",
+      "registrationUrl": "https://us02web.zoom.us/meeting/register/2AS43srwQDqIZpOD51vpTg#/registration",
+      "accessNotes": "",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://www.cancerwellness.org/events/gentle-yoga-280-3-2/2026-11-18/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-193232-005",
+      "title": "Zoom Exercise with Diana",
+      "organizer": "Dallas Area Parkinson Society",
+      "category": "Fitness / mobility",
+      "startUtc": "2026-11-18T16:00:00.000Z",
+      "endUtc": "2026-11-18T17:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://daps.org/events/zoom-exercise-w-diana-2026-11-18-10-00",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T10:00-06:00",
+      "sourceLocalEnd": "2026-11-18T11:00:00-06:00",
+      "sourceZone": "America/Chicago",
+      "restriction": "Parkinson's community; bilingual English/Spanish; meeting passcode LOUD",
+      "registrationUrl": "",
+      "accessNotes": " Public Zoom link explicitly published on dated organizer page.",
+      "joinUrl": "https://us02web.zoom.us/j/5560874938",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://daps.org/events/zoom-exercise-w-diana-2026-11-18-10-00"
+        }
+      ],
+      "publicRoom": true
+    },
+    {
+      "id": "pg-20261118-193232-009",
+      "title": "Brain Waves Yoga",
+      "organizer": "Brain Waves Yoga",
+      "category": "Yoga / wellness",
+      "startUtc": "2026-11-18T16:00:00.000Z",
+      "endUtc": "2026-11-18T17:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://brainwavesyoga.betterworld.org/events/november-18-yoga",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Not verified",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T11:00-05:00",
+      "sourceLocalEnd": "2026-11-18T12:00:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "All levels; event page says virtual via Zoom",
+      "registrationUrl": "https://brainwavesyoga.betterworld.org/events/november-18-yoga",
+      "accessNotes": " Public Zoom link explicitly published on dated organizer page.",
+      "joinUrl": "Organizer page returned HTTP 403 on independent live fetch; search result carries dated occurrence.",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://brainwavesyoga.betterworld.org/events/november-18-yoga"
+        }
+      ],
+      "publicRoom": true
+    },
+    {
+      "id": "pg-20261118-193232-003",
+      "title": "Wednesday Morning Sitting: Online",
+      "organizer": "Shambhala Victoria",
+      "category": "Meditation / community",
+      "startUtc": "2026-11-18T17:00:00.000Z",
+      "endUtc": "2026-11-18T18:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://shambhala.org/event/835653-wednesday-morning-sitting-online/",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T09:00-08:00",
+      "sourceLocalEnd": "2026-11-18T10:30:00-08:00",
+      "sourceZone": "America/Vancouver",
+      "restriction": "Open online sitting; meeting ID 872 7430 2040, password mindful",
+      "registrationUrl": "",
+      "accessNotes": "Organizer publishes meeting ID; no verified complete room URL; Outlook calendar displays stale -07:00, corrected using Vancouver Nov18 PST -08:00.",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://shambhala.org/event/835653-wednesday-morning-sitting-online/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-193232-010",
+      "title": "Wednesday Noon Mid-Week Reset",
+      "organizer": "Shambhala Toronto",
+      "category": "Meditation / community",
+      "startUtc": "2026-11-18T17:00:00.000Z",
+      "endUtc": "2026-11-18T17:45:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://shambhala.org/event/845709-wednesday-noon-mid-week-reset-meditation-online/",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "free",
+      "price": "Free; donations welcome",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T12:00-05:00",
+      "sourceLocalEnd": "2026-11-18T12:45:00-05:00",
+      "sourceZone": "America/Toronto",
+      "restriction": "Open to all; Zoom opens 11:55 local",
+      "registrationUrl": "",
+      "accessNotes": " Public Zoom link explicitly published on dated organizer page.",
+      "joinUrl": "https://us02web.zoom.us/j/87860931311?pwd=WrhMw8zzUitz6RnbYYTbKCwPZI3jXz.1",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://shambhala.org/event/845709-wednesday-noon-mid-week-reset-meditation-online/"
+        }
+      ],
+      "publicRoom": true
+    },
+    {
+      "id": "pg-20261118-193232-013",
+      "title": "Wednesday All Levels Yoga",
+      "organizer": "Laura Yon",
+      "category": "Yoga",
+      "startUtc": "2026-11-18T17:00:00.000Z",
+      "endUtc": "2026-11-18T18:15:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://laurayon.com/event/wednesday-930-am-all-levels-yoga-online/2026-11-18/",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "paid",
+      "price": "$16 drop-in / $140 10-class",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T09:00-08:00",
+      "sourceLocalEnd": "2026-11-18T10:15:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "All levels; online Zoom; title/series says 9:30 but occurrence body and calendar say 9:00",
+      "registrationUrl": "https://laurayon.com/appointments/",
+      "accessNotes": "",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://laurayon.com/event/wednesday-930-am-all-levels-yoga-online/2026-11-18/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-193232-014",
+      "title": "Pilates with Lorraine Fisher-Smith",
+      "organizer": "The Dance Palace",
+      "category": "Pilates",
+      "startUtc": "2026-11-18T17:00:00.000Z",
+      "endUtc": "2026-11-18T18:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://dancepalace.org/event/pilates-with-lorraine-fisher-smith-6/2026-11-18",
+      "verification": "verified",
+      "route": "request",
+      "costType": "free",
+      "price": "$16 drop-in; first class free",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T09:00-08:00",
+      "sourceLocalEnd": "2026-11-18T10:00:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "Contact instructor before first class; Zoom or in person",
+      "registrationUrl": "",
+      "accessNotes": "Organizer page unavailable in live fetch; dated indexed listing confirms Zoom.",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://dancepalace.org/event/pilates-with-lorraine-fisher-smith-6/2026-11-18"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-193232-016",
+      "title": "Third Wednesday Open Meditations",
+      "organizer": "Awaken Pittsburgh",
+      "category": "Meditation / community",
+      "startUtc": "2026-11-18T17:00:00.000Z",
+      "endUtc": null,
+      "platform": "Zoom",
+      "sourceUrl": "https://vibeindex.club/event/pittsburgh-pa-third-wednesday-open-meditations-in-person-south-hills-or-via-zoom-nov-18-2026",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "free",
+      "price": "Free; donations optional",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T12:00-05:00",
+      "sourceLocalEnd": null,
+      "sourceZone": "America/New_York",
+      "restriction": "Online Zoom link emailed after registration; end time unverified",
+      "registrationUrl": "https://vibeindex.club/event/pittsburgh-pa-third-wednesday-open-meditations-in-person-south-hills-or-via-zoom-nov-18-2026",
+      "accessNotes": "false Public Zoom link explicitly published on dated organizer page.",
+      "joinUrl": "Secondary aggregator only, no organizer occurrence independently fetched.",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://vibeindex.club/event/pittsburgh-pa-third-wednesday-open-meditations-in-person-south-hills-or-via-zoom-nov-18-2026"
+        }
+      ],
+      "publicRoom": true
+    },
+    {
+      "id": "pg-20261118-193232-001",
+      "title": "Yoga for Wellness (Zoom Only)",
+      "organizer": "Torrance Memorial",
+      "category": "Yoga",
+      "startUtc": "2026-11-18T17:30:00.000Z",
+      "endUtc": "2026-11-18T18:45:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.torrancememorial.org/healthy-living/classes-lectures-support-groups/search-results-detail/?eventId=70cfe1b2-fe94-f111-a88f-000d3a611c21",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "paid",
+      "price": "$40 four-week series",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T09:30-08:00",
+      "sourceLocalEnd": "2026-11-18T10:45:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "Registration currently closed; paid four-week course",
+      "registrationUrl": "https://tmmc.zoom.us/meeting/register/xIhv289BRoKR1piHgYEseA",
+      "accessNotes": "",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://www.torrancememorial.org/healthy-living/classes-lectures-support-groups/search-results-detail/?eventId=70cfe1b2-fe94-f111-a88f-000d3a611c21"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-193232-004",
+      "title": "Trevor's Zoom Yoga Class",
+      "organizer": "Yoga Trevor",
+      "category": "Yoga / fitness",
+      "startUtc": "2026-11-18T17:30:00.000Z",
+      "endUtc": "2026-11-18T18:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://eventbrite.com/e/trevors-zoom-yoga-class-wednesday-november-18th-930am-pst-tickets-2004022877373",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "free",
+      "price": "Free; donations optional",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T09:30-08:00",
+      "sourceLocalEnd": "2026-11-18T10:30:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "All levels; Zoom link emailed on registration",
+      "registrationUrl": "https://eventbrite.com/e/trevors-zoom-yoga-class-wednesday-november-18th-930am-pst-tickets-2004022877373",
+      "accessNotes": "",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://eventbrite.com/e/trevors-zoom-yoga-class-wednesday-november-18th-930am-pst-tickets-2004022877373"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-193232-002",
+      "title": "Chair Yoga for Bone Health (Zoom Only)",
+      "organizer": "Torrance Memorial",
+      "category": "Yoga / mobility",
+      "startUtc": "2026-11-18T19:00:00.000Z",
+      "endUtc": "2026-11-18T20:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.torrancememorial.org/healthy-living/classes-lectures-support-groups/search-results-detail/?eventId=23953026-ff94-f111-a88f-000d3a611c21",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "paid",
+      "price": "$40 four-week series",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T11:00-08:00",
+      "sourceLocalEnd": "2026-11-18T12:00:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "Registration currently closed; paid four-week course",
+      "registrationUrl": "https://tmmc.zoom.us/meeting/register/KOLYS-5PQzyl0aer6fduTg",
+      "accessNotes": "",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://www.torrancememorial.org/healthy-living/classes-lectures-support-groups/search-results-detail/?eventId=23953026-ff94-f111-a88f-000d3a611c21"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-193232-011",
+      "title": "Chair Yoga Online",
+      "organizer": "Indian Prairie Public Library",
+      "category": "Yoga / mobility",
+      "startUtc": "2026-11-18T19:00:00.000Z",
+      "endUtc": "2026-11-18T20:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://ippl.libcal.com/event/16928643",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T13:00-06:00",
+      "sourceLocalEnd": "2026-11-18T14:00:00-06:00",
+      "sourceZone": "America/Chicago",
+      "restriction": "Adults; registration required; Zoom emailed",
+      "registrationUrl": "https://ippl.libcal.com/event/16928643",
+      "accessNotes": "",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://ippl.libcal.com/event/16928643"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-193232-012",
+      "title": "Critical Thinking in the World of AI",
+      "organizer": "Reynolds Libraries",
+      "category": "AI / education",
+      "startUtc": "2026-11-18T19:00:00.000Z",
+      "endUtc": "2026-11-18T19:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://reynolds.libcal.com/event/17450377",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T14:00-05:00",
+      "sourceLocalEnd": "2026-11-18T14:30:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Online workshop; page title says In-Person but event lists Online and Zoom email",
+      "registrationUrl": "https://reynolds.libcal.com/event/17450377",
+      "accessNotes": " Public Zoom link explicitly published on dated organizer page.",
+      "joinUrl": "Conflicting In-Person header versus Online campus; Zoom link stated.",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://reynolds.libcal.com/event/17450377"
+        }
+      ],
+      "publicRoom": true
     }
   ],
   "unverified": [
@@ -841,5 +1294,5 @@
       "warning": "Search index lists Nov 18 Zoom occurrence but public organizer page returned outdated May 2026 calendar; start and booking state require reconfirmation."
     }
   ],
-  "feedRevision": "prompt-g-2026-11-18-153156-ist"
+  "feedRevision": "prompt-g-2026-11-18-193232-ist"
 }
