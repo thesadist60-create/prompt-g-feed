@@ -1,13 +1,11 @@
-# Prompt G public JSON feed
+# Prompt G · Live Session Desk
 
-This repository supplies public Prompt G research to [Live Session Desk](https://live-session-desk-m.aditity21212.chatgpt.site/).
+[Open the complete chronological table](https://live-session-desk-m.aditity21212.chatgpt.site/table.html)
 
-The read-only feed is [live-events.json](https://raw.githubusercontent.com/thesadist60-create/prompt-g-feed/main/live-events.json). Visitors read it without GitHub credentials. The Site validates it on page load and every minute while open, and uses its bundled JSON as fallback if fetching or validation fails.
+All retained research rows, sorted by actual time and displayed in 12-hour IST. Known ended/cancelled/excluded records hide automatically in the default view. Unknown or estimated ends stay separate. Use All records to inspect history, search/filter by access route, and download the complete JSON or CSV. Source, registration, room and evidence links stay with each occurrence. The page reads this repository's live-events.json without credentials; a routine feed update needs no website deployment.
 
-## Publishing a research run
+On iPhone, open the table in Safari, tap Share → Add to Home Screen, and name it Live Sessions. It works independently of your laptop.
 
-Use the authenticated GitHub connection to replace `live-events.json` on `main`. Read its current blob SHA before updating and use that SHA to guard against concurrent writes. Read the public raw feed back to verify the update. A routine data update takes one file commit.
+[Publishing and scheduled task contract](./PUBLISHING.md) · [Full JSON ledger](./live-events.json)
 
-The root object uses `version: 1`, `window: {startUtc, endUtc}`, `updatedAtUtc`, and `events`. Timestamps use exact ISO UTC strings ending in `Z`. Preserve the actual research time in `updatedAtUtc` and each evidence check time in `checkedAtUtc`. `feedRevision` is optional transport metadata and never changes the research timestamp. Each event needs an occurrence ID, title, organizer, category, start/end (null when unknown), platform, public source URL, verification, access route, and cost state. The Site’s `dist/live-data.mjs` defines the full validation contract. Its `PROMPT_G_PUBLISHING.md` contains the research and publication procedure.
-
-The initial feed copies the Site’s existing 71 records with their original research time. It does not establish new occurrences or current admission. Elapsed events are hidden by the Site automatically. Publish only documented public source and access information.
+The reader isolates old and invalid rows so one row does not hide the whole feed. It preserves actual research/check timestamps and does not establish host presence, registration availability, eligibility or admission. Room links missing a public-room attestation are flagged for source verification. No registration, payment or meeting entry is performed by publication.
