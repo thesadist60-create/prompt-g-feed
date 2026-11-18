@@ -1,13 +1,13 @@
 {
   "version": 1,
   "window": {
-    "startUtc": "2026-11-18T05:05:15.000Z",
-    "endUtc": "2026-11-18T10:05:15.000Z"
+    "startUtc": "2026-11-18T05:59:20.000Z",
+    "endUtc": "2026-11-18T10:59:20.000Z"
   },
-  "updatedAtUtc": "2026-11-18T05:12:50.000Z",
+  "updatedAtUtc": "2026-11-18T05:59:53.000Z",
   "checkWindow": {
-    "startUtc": "2026-11-18T05:05:15.000Z",
-    "endUtc": "2026-11-18T05:12:50.000Z"
+    "startUtc": "2026-11-18T05:59:20.000Z",
+    "endUtc": "2026-11-18T05:59:53.000Z"
   },
   "events": [
     {
@@ -187,28 +187,6 @@
       "joinUrl": ""
     },
     {
-      "id": "pg-20261118-103515-002",
-      "title": "Surya Practice — Live Online",
-      "organizer": "MeetaYoga",
-      "category": "Yoga / fitness",
-      "startUtc": "2026-11-18T06:30:00.000Z",
-      "endUtc": "2026-11-18T07:00:00.000Z",
-      "platform": "Zoom",
-      "sourceUrl": "https://www.meetayoga.com/meetayoga_class_schedule.php",
-      "verification": "verified",
-      "route": "registration",
-      "costType": "paid",
-      "price": "£6",
-      "checkedAtUtc": "2026-11-18T05:12:50.000Z",
-      "sourceLocalStart": "2026-11-18T06:30:00+00:00",
-      "sourceLocalEnd": "2026-11-18T07:00:00+00:00",
-      "sourceZone": "Europe/London",
-      "restriction": "Online web-stream Zoom class; booking/payment required",
-      "registrationUrl": "https://www.meetayoga.com/meetayoga_class_schedule.php",
-      "accessNotes": "UK Southampton class schedule confirms 18 Nov 06:30–07:00 and price £6; registration not attempted.",
-      "joinUrl": ""
-    },
-    {
       "id": "pg-20261118-103515-003",
       "title": "Meditation & Dhamma Talk with Bhante Joe Atulo",
       "organizer": "Dhamma-Vinaya Patipada / Bhante Joe Atulo",
@@ -229,6 +207,28 @@
       "registrationUrl": "",
       "accessNotes": "Official linked event page publicly provides Zoom meeting URL (ID 850 7796 7885; passcode 596025).",
       "joinUrl": "https://us06web.zoom.us/j/85077967885?pwd=g5lB3icsvpZ5HBlTA1vfGr2PDBq2WR.1"
+    },
+    {
+      "id": "pg-20261118-112920-001",
+      "title": "11/11 Day Sadhana Reset — Kundalini Yoga",
+      "organizer": "Yoga on the Move",
+      "category": "Yoga / women-focused",
+      "startUtc": "2026-11-18T07:30:00.000Z",
+      "endUtc": "2026-11-18T08:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://yogaonthemove.co.uk/11-11-day-sadhana-reset",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "paid",
+      "price": "£55 for 11 days; described as £5 per session",
+      "checkedAtUtc": "2026-11-18T05:59:53.000Z",
+      "sourceLocalStart": "2026-11-18T07:30:00+00:00",
+      "sourceLocalEnd": "2026-11-18T08:00:00+00:00",
+      "sourceZone": "Europe/London",
+      "restriction": "Women-focused course, full-series booking; eligibility/remaining admission untested",
+      "registrationUrl": "https://www.yogaonthemove.co.uk/store/p/33-11-day-sadhana-reset-6sdcp-4y5zb",
+      "joinUrl": "",
+      "accessNotes": "November 9–19 course explicitly includes Wednesday November 18; UK GMT; Zoom link after booking."
     },
     {
       "id": "pg-20261118-103515-004",
@@ -253,6 +253,28 @@
       "joinUrl": ""
     },
     {
+      "id": "pg-20261118-112920-002",
+      "title": "Silence in the Shrine",
+      "organizer": "Ellen Emmet",
+      "category": "Meditation / breathwork",
+      "startUtc": "2026-11-18T08:00:00.000Z",
+      "endUtc": "2026-11-18T08:45:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://ellenemmet.com/events-registratoins/november18-2026",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "free",
+      "price": "Free; donations optional",
+      "checkedAtUtc": "2026-11-18T05:59:53.000Z",
+      "sourceLocalStart": "2026-11-18T08:00:00+00:00",
+      "sourceLocalEnd": "2026-11-18T08:45:00+00:00",
+      "sourceZone": "Europe/London",
+      "restriction": "Open public event; Zoom link emailed only after registration",
+      "registrationUrl": "https://ellenemmet.com/events-registratoins/november18-2026",
+      "joinUrl": "",
+      "accessNotes": "Organizer's dated event and UTC calendar confirm 08:00–08:45 GMT; register button on page."
+    },
+    {
       "id": "pg-20261118-103515-005",
       "title": "Live Mindfulness Session — Wednesday Morning",
       "organizer": "Sussex Mindfulness & Compassion (NHS)",
@@ -273,6 +295,28 @@
       "registrationUrl": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO44gJv9F_ec9DoDOksbpGC0pUMTQ4S0Q0QlBNRFlRNE04OEMyTU9TVkw5TSQlQCN0PWcu&route=shorturl",
       "accessNotes": "Organizer requests online form to receive Zoom link; no request or meeting made.",
       "joinUrl": ""
+    },
+    {
+      "id": "pg-20261118-112920-003",
+      "title": "ZOOM LIVE-STREAM Vinyasa Yoga",
+      "organizer": "Relax Yoga / Jo Moloney",
+      "category": "Yoga / fitness",
+      "startUtc": "2026-11-18T08:15:00.000Z",
+      "endUtc": "2026-11-18T09:15:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://app.punchpass.com/org/3775/classes/20574121",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Price not published on event page",
+      "checkedAtUtc": "2026-11-18T05:59:53.000Z",
+      "sourceLocalStart": "2026-11-18T18:15:00+10:00",
+      "sourceLocalEnd": "2026-11-18T19:15:00+10:00",
+      "sourceZone": "Australia/Brisbane",
+      "restriction": "Punchpass account required; experienced-level dynamic class; link in booking confirmation",
+      "registrationUrl": "https://app.punchpass.com/org/3775/classes/20574121",
+      "joinUrl": "",
+      "accessNotes": "Event structured data specifies 2026-11-18T18:15:00+10:00; booking not attempted."
     },
     {
       "id": "pg-20261118-103515-006",
@@ -317,6 +361,28 @@
       "registrationUrl": "https://www.samadhi.org.uk/event/metal-and-water-qi-gong/",
       "accessNotes": "18 Nov is third scheduled class; Zoom link sent after booking; starts 5m15s before exclusive cutoff; runs past cutoff.",
       "joinUrl": ""
+    },
+    {
+      "id": "pg-20261118-112920-004",
+      "title": "Strength and Balance Online",
+      "organizer": "Heather Vivien George / Omtropy",
+      "category": "Fitness / mobility / balance",
+      "startUtc": "2026-11-18T10:00:00.000Z",
+      "endUtc": "2026-11-18T11:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.momoyoga.com/omtropy/lesson/23485905/Strength-and-Balance",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Not displayed in public schedule",
+      "checkedAtUtc": "2026-11-18T05:59:53.000Z",
+      "sourceLocalStart": "2026-11-18T10:00:00+00:00",
+      "sourceLocalEnd": "2026-11-18T11:00:00+00:00",
+      "sourceZone": "Europe/London",
+      "restriction": "All levels, including injury recovery; booking through Momoyoga; 17 spots displayed at research",
+      "registrationUrl": "https://www.momoyoga.com/omtropy/lesson/23485905/Strength-and-Balance",
+      "joinUrl": "",
+      "accessNotes": "Organizer dated schedule and calendar timezone Europe/London confirm 10:00–11:00 GMT Zoom online."
     }
   ],
   "unverified": [
@@ -552,6 +618,29 @@
       "warning": "Interactive live online occurrence is dated, but actual Zoom/Meet platform not established."
     },
     {
+      "id": "pg-20261118-103515-002",
+      "title": "Surya Practice — Live Online",
+      "organizer": "MeetaYoga",
+      "category": "Yoga / fitness",
+      "startUtc": "2026-11-18T06:30:00.000Z",
+      "endUtc": "2026-11-18T07:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.meetayoga.com/meetayoga_class_schedule.php",
+      "verification": "needs-verification",
+      "route": "unresolved",
+      "costType": "paid",
+      "price": "£6",
+      "checkedAtUtc": "2026-11-18T05:59:53.000Z",
+      "sourceLocalStart": "2026-11-18T06:30:00+00:00",
+      "sourceLocalEnd": "2026-11-18T07:00:00+00:00",
+      "sourceZone": "Europe/London",
+      "restriction": "Online web-stream Zoom class; booking/payment required",
+      "registrationUrl": "",
+      "accessNotes": "CANCELED / do not attempt booking. Organizer page states 'This class will not run today'.",
+      "joinUrl": "",
+      "warning": "Organizer live schedule explicitly states 'This class will not run today' for November 18; previously verified listing invalidated."
+    },
+    {
       "id": "pg-20261118-103515-010",
       "verification": "needs-verification",
       "checkedAtUtc": "2026-11-18T05:12:50.000Z",
@@ -598,5 +687,5 @@
       "warning": "Search index lists Nov 18 Zoom occurrence but public organizer page returned outdated May 2026 calendar; start and booking state require reconfirmation."
     }
   ],
-  "feedRevision": "prompt-g-2026-11-18-103515-ist"
+  "feedRevision": "prompt-g-2026-11-18-112920-ist"
 }
