@@ -567,34 +567,6 @@
       "checkedAtUtc": "2026-11-18T10:03:05.000Z"
     },
     {
-      "id": "pg-20261118-193232-006",
-      "title": "Breathe, Move, and Wellness Tips",
-      "organizer": "Methodist Health System",
-      "category": "Fitness / wellness",
-      "startUtc": "2026-11-18T15:00:00.000Z",
-      "endUtc": "2026-11-18T16:00:00.000Z",
-      "platform": "Zoom",
-      "sourceUrl": "https://methodisthealthsystem.org/event/2026/11/18/breathe-move-and-wellness-tips",
-      "verification": "verified",
-      "route": "direct",
-      "costType": "unknown",
-      "price": "Not stated",
-      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
-      "sourceLocalStart": "2026-11-18T09:00-06:00",
-      "sourceLocalEnd": "2026-11-18T10:00:00-06:00",
-      "sourceZone": "America/Chicago",
-      "restriction": "Methodist Generations online; organizer says 30-minute activity though listing states 9–10 AM",
-      "registrationUrl": "",
-      "accessNotes": "Public meeting ID 930 1026 8362; exact duration conflicts, retain organizer listing's 60-minute window.",
-      "joinUrl": "",
-      "evidence": [
-        {
-          "label": "Dated organizer event",
-          "url": "https://methodisthealthsystem.org/event/2026/11/18/breathe-move-and-wellness-tips"
-        }
-      ]
-    },
-    {
       "id": "pg-20261118-193232-007",
       "title": "Floor Yoga — Wednesdays",
       "organizer": "Atrium Health Levine Cancer",
@@ -680,34 +652,6 @@
       "publicRoom": true
     },
     {
-      "id": "pg-20261118-193232-009",
-      "title": "Brain Waves Yoga",
-      "organizer": "Brain Waves Yoga",
-      "category": "Yoga / wellness",
-      "startUtc": "2026-11-18T16:00:00.000Z",
-      "endUtc": "2026-11-18T17:00:00.000Z",
-      "platform": "Zoom",
-      "sourceUrl": "https://brainwavesyoga.betterworld.org/events/november-18-yoga",
-      "verification": "verified",
-      "route": "registration",
-      "costType": "unknown",
-      "price": "Not verified",
-      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
-      "sourceLocalStart": "2026-11-18T11:00-05:00",
-      "sourceLocalEnd": "2026-11-18T12:00:00-05:00",
-      "sourceZone": "America/New_York",
-      "restriction": "All levels; event page says virtual via Zoom",
-      "registrationUrl": "https://brainwavesyoga.betterworld.org/events/november-18-yoga",
-      "accessNotes": " Public Zoom link explicitly published on dated organizer page. Organizer page returned HTTP 403 on independent live fetch; search result carries dated occurrence.",
-      "joinUrl": "",
-      "evidence": [
-        {
-          "label": "Dated organizer event",
-          "url": "https://brainwavesyoga.betterworld.org/events/november-18-yoga"
-        }
-      ]
-    },
-    {
       "id": "pg-20261118-193232-003",
       "title": "Wednesday Morning Sitting: Online",
       "organizer": "Shambhala Victoria",
@@ -789,34 +733,6 @@
         {
           "label": "Dated organizer event",
           "url": "https://laurayon.com/event/wednesday-930-am-all-levels-yoga-online/2026-11-18/"
-        }
-      ]
-    },
-    {
-      "id": "pg-20261118-193232-014",
-      "title": "Pilates with Lorraine Fisher-Smith",
-      "organizer": "The Dance Palace",
-      "category": "Pilates",
-      "startUtc": "2026-11-18T17:00:00.000Z",
-      "endUtc": "2026-11-18T18:00:00.000Z",
-      "platform": "Zoom",
-      "sourceUrl": "https://dancepalace.org/event/pilates-with-lorraine-fisher-smith-6/2026-11-18",
-      "verification": "verified",
-      "route": "request",
-      "costType": "free",
-      "price": "$16 drop-in; first class free",
-      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
-      "sourceLocalStart": "2026-11-18T09:00-08:00",
-      "sourceLocalEnd": "2026-11-18T10:00:00-08:00",
-      "sourceZone": "America/Los_Angeles",
-      "restriction": "Contact instructor before first class; Zoom or in person",
-      "registrationUrl": "",
-      "accessNotes": "Organizer page unavailable in live fetch; dated indexed listing confirms Zoom.",
-      "joinUrl": "",
-      "evidence": [
-        {
-          "label": "Dated organizer event",
-          "url": "https://dancepalace.org/event/pilates-with-lorraine-fisher-smith-6/2026-11-18"
         }
       ]
     },
@@ -1263,6 +1179,64 @@
       "warning": "Search index lists Nov 18 Zoom occurrence but public organizer page returned outdated May 2026 calendar; start and booking state require reconfirmation."
     },
     {
+      "id": "pg-20261118-193232-006",
+      "title": "Breathe, Move, and Wellness Tips",
+      "organizer": "Methodist Health System",
+      "category": "Fitness / wellness",
+      "startUtc": "2026-11-18T15:00:00.000Z",
+      "endUtc": null,
+      "platform": "Zoom",
+      "sourceUrl": "https://methodisthealthsystem.org/event/2026/11/18/breathe-move-and-wellness-tips",
+      "verification": "needs-verification",
+      "route": "direct",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T09:00-06:00",
+      "sourceLocalEnd": "2026-11-18T10:00:00-06:00",
+      "sourceZone": "America/Chicago",
+      "restriction": "Methodist Generations online; organizer says 30-minute activity though listing states 9–10 AM",
+      "registrationUrl": "",
+      "accessNotes": "Dated organizer lists 9:00–10:00 AM but describes a 30-minute program; exact end unverified. Do not present as confirmed 60-minute session.",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://methodisthealthsystem.org/event/2026/11/18/breathe-move-and-wellness-tips"
+        }
+      ],
+      "warning": "Dated organizer lists 9:00–10:00 AM but describes a 30-minute program; exact end unverified. Do not present as confirmed 60-minute session."
+    },
+    {
+      "id": "pg-20261118-193232-009",
+      "title": "Brain Waves Yoga",
+      "organizer": "Brain Waves Yoga",
+      "category": "Yoga / wellness",
+      "startUtc": "2026-11-18T16:00:00.000Z",
+      "endUtc": "2026-11-18T17:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://brainwavesyoga.betterworld.org/events/november-18-yoga",
+      "verification": "needs-verification",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Not verified",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T11:00-05:00",
+      "sourceLocalEnd": "2026-11-18T12:00:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "All levels; event page says virtual via Zoom",
+      "registrationUrl": "https://brainwavesyoga.betterworld.org/events/november-18-yoga",
+      "accessNotes": "Date-specific listing found in Exa, but original booking page returned HTTP 403 on live read-back; price and registration status unverified.",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://brainwavesyoga.betterworld.org/events/november-18-yoga"
+        }
+      ],
+      "warning": "Date-specific listing found in Exa, but original booking page returned HTTP 403 on live read-back; price and registration status unverified."
+    },
+    {
       "id": "pg-20261118-193232-016",
       "title": "Third Wednesday Open Meditations",
       "organizer": "Awaken Pittsburgh",
@@ -1290,6 +1264,35 @@
         }
       ],
       "warning": "Secondary aggregator only; original organizer dated occurrence and end time not independently verified."
+    },
+    {
+      "id": "pg-20261118-193232-014",
+      "title": "Pilates with Lorraine Fisher-Smith",
+      "organizer": "The Dance Palace",
+      "category": "Pilates",
+      "startUtc": "2026-11-18T17:00:00.000Z",
+      "endUtc": "2026-11-18T18:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://dancepalace.org/event/pilates-with-lorraine-fisher-smith-6/2026-11-18",
+      "verification": "needs-verification",
+      "route": "request",
+      "costType": "free",
+      "price": "$16 drop-in; first class free",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T09:00-08:00",
+      "sourceLocalEnd": "2026-11-18T10:00:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "Contact instructor before first class; Zoom or in person",
+      "registrationUrl": "",
+      "accessNotes": "Organizer's original dated page could not be fetched live; independently confirm Zoom availability and instructor contact before promoting.",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://dancepalace.org/event/pilates-with-lorraine-fisher-smith-6/2026-11-18"
+        }
+      ],
+      "warning": "Organizer's original dated page could not be fetched live; independently confirm Zoom availability and instructor contact before promoting."
     }
   ],
   "feedRevision": "prompt-g-2026-11-18-193232-ist"
