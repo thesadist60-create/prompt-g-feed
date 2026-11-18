@@ -1,13 +1,13 @@
 {
   "version": 1,
   "window": {
-    "startUtc": "2026-11-17T23:33:33.000Z",
-    "endUtc": "2026-11-18T04:33:33.000Z"
+    "startUtc": "2026-11-18T00:19:23.000Z",
+    "endUtc": "2026-11-18T04:19:23.000Z"
   },
-  "updatedAtUtc": "2026-11-17T23:51:25.052Z",
+  "updatedAtUtc": "2026-11-18T01:42:14.000Z",
   "checkWindow": {
-    "startUtc": "2026-11-17T23:33:33.000Z",
-    "endUtc": "2026-11-17T23:51:25.052Z"
+    "startUtc": "2026-11-18T00:19:23.000Z",
+    "endUtc": "2026-11-18T01:42:14.000Z"
   },
   "events": [
     {
@@ -1678,6 +1678,60 @@
       ]
     },
     {
+      "id": "pg-20261118-054923-001",
+      "title": "Laughter Yoga with Terri",
+      "organizer": "Superfine Synergy",
+      "category": "Women's wellness / laughter yoga",
+      "startUtc": "2026-11-18T00:00:00.000Z",
+      "endUtc": "2026-11-18T01:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://superfinesynergy.org/events/laughter-yoga-november",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "paid",
+      "price": "Member access or single class pass; amount not displayed",
+      "checkedAtUtc": "2026-11-18T01:42:14.000Z",
+      "sourceLocalStart": "2026-11-17T19:00:00-05:00",
+      "sourceLocalEnd": "2026-11-17T20:00:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Women's embodiment community; member or paid single-class pass",
+      "registrationUrl": "https://superfinesynergy.org/events/laughter-yoga-november",
+      "accessNotes": "Date-specific event confirmed by organizer; access issued after purchase/membership",
+      "evidence": [
+        {
+          "label": "Organizer event/registration page",
+          "url": "https://superfinesynergy.org/events/laughter-yoga-november"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-054923-002",
+      "title": "Movement Meditation for Energy and Healing (Virtual)",
+      "organizer": "Independent Living Resource Center San Francisco",
+      "category": "Yoga / mobility / accessible wellness",
+      "startUtc": "2026-11-18T00:00:00.000Z",
+      "endUtc": "2026-11-18T00:45:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.ilrcsf.org/events/movement-meditation-for-energy-and-healing-virtual-47/",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Fee not stated",
+      "checkedAtUtc": "2026-11-18T01:42:14.000Z",
+      "sourceLocalStart": "2026-11-17T16:00:00-08:00",
+      "sourceLocalEnd": "2026-11-17T16:45:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "Disability-accessibility focus; organizer registration required to receive weekly Zoom link",
+      "registrationUrl": "https://www.ilrcsf.org/events/movement-meditation-for-energy-and-healing-virtual-47/",
+      "accessNotes": "Dated occurrence, organizer states Zoom access follows registration",
+      "evidence": [
+        {
+          "label": "Organizer event/registration page",
+          "url": "https://www.ilrcsf.org/events/movement-meditation-for-energy-and-healing-virtual-47/"
+        }
+      ]
+    },
+    {
       "id": "pg-20261118-050333-003",
       "title": "Shambhala — Tuesday Evening Guided Meditation",
       "organizer": "Shambhala",
@@ -1791,6 +1845,60 @@
       ]
     },
     {
+      "id": "pg-20261118-054923-003",
+      "title": "Free & Open Zoom Meditation",
+      "organizer": "Community Mindfulness Project",
+      "category": "Meditation / community",
+      "startUtc": "2026-11-18T00:50:00.000Z",
+      "endUtc": "2026-11-18T01:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.communitymindfulnessproject.org/schedule/l2frbjdayn5kh5a-jd72c-24fwz-m745z-d4z96-aypax-t9rg2-c8lpe-k66lk-5gje5-78bpw-2p9w9-fn99g-amrys-ylwst-wkyys-4la6e-tb3cx-wgzn6-wgbz2-dw486",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "donation",
+      "price": "Free; optional suggested US$8 donation",
+      "checkedAtUtc": "2026-11-18T01:42:14.000Z",
+      "sourceLocalStart": "2026-11-17T19:50:00-05:00",
+      "sourceLocalEnd": "2026-11-17T20:30:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Open to all; email-registration needed for current rotating Zoom link",
+      "registrationUrl": "https://www.communitymindfulnessproject.org/schedule/l2frbjdayn5kh5a-jd72c-24fwz-m745z-d4z96-aypax-t9rg2-c8lpe-k66lk-5gje5-78bpw-2p9w9-fn99g-amrys-ylwst-wkyys-4la6e-tb3cx-wgzn6-wgbz2-dw486",
+      "accessNotes": "Exact date and time supported by organizer and UTC calendar; RSVP method may need organizer followup",
+      "evidence": [
+        {
+          "label": "Organizer event/registration page",
+          "url": "https://www.communitymindfulnessproject.org/schedule/l2frbjdayn5kh5a-jd72c-24fwz-m745z-d4z96-aypax-t9rg2-c8lpe-k66lk-5gje5-78bpw-2p9w9-fn99g-amrys-ylwst-wkyys-4la6e-tb3cx-wgzn6-wgbz2-dw486"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-054923-004",
+      "title": "Monthly Healing and Breathwork — November 2026",
+      "organizer": "Gaia Goddess Lifestyle",
+      "category": "Women's wellness / breathwork",
+      "startUtc": "2026-11-18T01:00:00.000Z",
+      "endUtc": "2026-11-18T02:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://gaiagoddesslifestyle.com/product/november-2026-monthly-healing-and-breathwork/",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "paid",
+      "price": "US$11 or included for Gold members",
+      "checkedAtUtc": "2026-11-18T01:42:14.000Z",
+      "sourceLocalStart": "2026-11-17T20:00:00-05:00",
+      "sourceLocalEnd": "2026-11-17T21:00:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "All experience levels; online ticket registration before start",
+      "registrationUrl": "https://gaiagoddesslifestyle.com/product/november-2026-monthly-healing-and-breathwork/",
+      "accessNotes": "Date-specific organizer page confirms time and Zoom email after registration; late enrollment may close",
+      "evidence": [
+        {
+          "label": "Organizer event/registration page",
+          "url": "https://gaiagoddesslifestyle.com/product/november-2026-monthly-healing-and-breathwork/"
+        }
+      ]
+    },
+    {
       "id": "pg-20261118-050333-013",
       "title": "Tushita Delhi — Morning Meditation",
       "organizer": "Tushita Delhi",
@@ -1815,6 +1923,61 @@
         {
           "label": "Public organizer/event page",
           "url": "https://tushitadelhi.com/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-054923-005",
+      "title": "Life In Yoga — Free Daily Morning Hatha / Yoga Program",
+      "organizer": "Vedasamskriti Yoga Foundation",
+      "category": "Yoga / breathwork / meditation",
+      "startUtc": "2026-11-18T01:30:00.000Z",
+      "endUtc": "2026-11-18T02:45:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.vsyoga.org/online-classes.html",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "free",
+      "price": "Free",
+      "checkedAtUtc": "2026-11-18T01:42:14.000Z",
+      "sourceLocalStart": "2026-11-18T07:00:00+05:30",
+      "sourceLocalEnd": "2026-11-18T08:15:00+05:30",
+      "sourceZone": "Asia/Kolkata",
+      "restriction": "All levels; Zoom webinar registration required",
+      "registrationUrl": "https://us06web.zoom.us/webinar/register/WN_SUZ3zdyOT-OZGjBh7ANIQQ",
+      "accessNotes": "Daily organizer timetable with webinar registration; Nov18 occurrence inferred from explicit daily schedule, no cancellation listed",
+      "evidence": [
+        {
+          "label": "Organizer event/registration page",
+          "url": "https://www.vsyoga.org/online-classes.html"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-054923-006",
+      "title": "21-Day Yoga Sadhana — Day 3",
+      "organizer": "Sukhalaya",
+      "category": "Yoga / pranayama / meditation",
+      "startUtc": "2026-11-18T01:30:00.000Z",
+      "endUtc": "2026-11-18T02:30:00.000Z",
+      "platform": null,
+      "sourceUrl": "https://www.sukhalaya.com/21-day-sadhana",
+      "verification": "needs-verification",
+      "route": "unresolved",
+      "costType": "paid",
+      "price": "₹1,599 current offer",
+      "checkedAtUtc": "2026-11-18T01:42:14.000Z",
+      "sourceLocalStart": "2026-11-18T07:00:00+05:30",
+      "sourceLocalEnd": "2026-11-18T08:00:00+05:30",
+      "sourceZone": "Asia/Kolkata",
+      "restriction": "21-day program began Nov16; late joining and exact Zoom/Meet platform not confirmed",
+      "registrationUrl": "",
+      "accessNotes": "Organizer gives daily live 07:00 IST but has not identified Zoom or Google Meet; manual platform verification required",
+      "warning": "NEEDS MANUAL CHECK — Organizer gives daily live 07:00 IST but has not identified Zoom or Google Meet; manual platform verification required",
+      "evidence": [
+        {
+          "label": "Organizer event/registration page",
+          "url": "https://www.sukhalaya.com/21-day-sadhana"
         }
       ]
     },
@@ -1933,6 +2096,34 @@
       ]
     },
     {
+      "id": "pg-20261118-054923-007",
+      "title": "Beyond Breath — Interactive Breathwork Intro",
+      "organizer": "San Francisco Yoga Meetup",
+      "category": "Breathwork / stress relief",
+      "startUtc": "2026-11-18T02:30:00.000Z",
+      "endUtc": "2026-11-18T03:45:00.000Z",
+      "platform": null,
+      "sourceUrl": "https://www.meetup.com/yoga-sf/events/wwzlzryjcpbwb/",
+      "verification": "needs-verification",
+      "route": "unresolved",
+      "costType": "free",
+      "price": "Free RSVP",
+      "checkedAtUtc": "2026-11-18T01:42:14.000Z",
+      "sourceLocalStart": "2026-11-17T18:30:00-08:00",
+      "sourceLocalEnd": "2026-11-17T19:45:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "Organizer directs attendees to separate short-link registration; exact Zoom/Meet platform not established",
+      "registrationUrl": "",
+      "accessNotes": "Dated interactive online meetup confirmed; host platform unclear, do not treat as verified Zoom",
+      "warning": "NEEDS MANUAL CHECK — Dated interactive online meetup confirmed; host platform unclear, do not treat as verified Zoom",
+      "evidence": [
+        {
+          "label": "Organizer event/registration page",
+          "url": "https://www.meetup.com/yoga-sf/events/wwzlzryjcpbwb/"
+        }
+      ]
+    },
+    {
       "id": "pg-20261118-050333-008",
       "title": "Dzogchen West — Meditation and Dharma Q&A",
       "organizer": "Dzogchen West",
@@ -1958,6 +2149,63 @@
         {
           "label": "Public organizer/event page",
           "url": "https://www.dzogchenwest.org/events"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-054923-008",
+      "title": "Puget Sound Zen Center — Evening Service",
+      "organizer": "Puget Sound Zen Center",
+      "category": "Meditation / Zen Buddhist",
+      "startUtc": "2026-11-18T03:00:00.000Z",
+      "endUtc": "2026-11-18T04:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://pszc.org/calendar/700pm-800pm-evening-service-2-2/2026-11-17/",
+      "verification": "verified",
+      "route": "request",
+      "costType": "donation",
+      "price": "Donation optional; no fixed fee stated",
+      "checkedAtUtc": "2026-11-18T01:42:14.000Z",
+      "sourceLocalStart": "2026-11-17T19:00:00-08:00",
+      "sourceLocalEnd": "2026-11-17T20:00:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "Need current password from organizer (online password request); access not independently tested",
+      "registrationUrl": "https://pszc.org/request-zoom-password/",
+      "accessNotes": "Official dated organizer page lists Zoom ID 5117064990; current password must be requested, not direct join",
+      "joinUrl": "https://zoom.us/j/5117064990",
+      "publicRoom": false,
+      "evidence": [
+        {
+          "label": "Organizer event/registration page",
+          "url": "https://pszc.org/calendar/700pm-800pm-evening-service-2-2/2026-11-17/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-054923-009",
+      "title": "BE Silent Meditation with a Sprinkling of Ayurveda",
+      "organizer": "Bridge & Enrich Lives Society",
+      "category": "Meditation / Ayurveda",
+      "startUtc": "2026-11-18T03:20:00.000Z",
+      "endUtc": "2026-11-18T05:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.bridgeandenrich.com/event/be-silent-meditation-with-a-sprinkling-of-ayurveda-online-41/2026-11-17/",
+      "verification": "needs-verification",
+      "route": "unresolved",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-18T01:42:14.000Z",
+      "sourceLocalStart": "2026-11-17T19:20:00-08:00",
+      "sourceLocalEnd": "2026-11-17T21:00:00-08:00",
+      "sourceZone": "America/Vancouver",
+      "restriction": "Mandatory orientation with organizer before receiving access; date-specific page has incorrect IST calculation",
+      "registrationUrl": "",
+      "accessNotes": "Organizer says 19:20 PST = 10:20pm EST = 07:50 IST; correct conversion is 08:50 IST. Need verify live clock and organizer route.",
+      "warning": "NEEDS MANUAL CHECK — Organizer says 19:20 PST = 10:20pm EST = 07:50 IST; correct conversion is 08:50 IST. Need verify live clock and organizer route.",
+      "evidence": [
+        {
+          "label": "Organizer event/registration page",
+          "url": "https://www.bridgeandenrich.com/event/be-silent-meditation-with-a-sprinkling-of-ayurveda-online-41/2026-11-17/"
         }
       ]
     },
@@ -2017,5 +2265,5 @@
       ]
     }
   ],
-  "feedRevision": "prompt-g-2026-11-18-050333-ist"
+  "feedRevision": "prompt-g-2026-11-18-054923-ist"
 }
