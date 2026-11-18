@@ -1,13 +1,13 @@
 {
   "version": 1,
   "window": {
-    "startUtc": "2026-11-18T14:02:32.000Z",
-    "endUtc": "2026-11-18T19:02:32.000Z"
+    "startUtc": "2026-11-18T18:04:06.000Z",
+    "endUtc": "2026-11-18T23:04:06.000Z"
   },
-  "updatedAtUtc": "2026-11-18T14:05:15.000Z",
+  "updatedAtUtc": "2026-11-18T18:05:17.333Z",
   "checkWindow": {
-    "startUtc": "2026-11-18T14:02:32.000Z",
-    "endUtc": "2026-11-18T14:05:15.000Z"
+    "startUtc": "2026-11-18T18:04:06.000Z",
+    "endUtc": "2026-11-18T18:05:17.333Z"
   },
   "events": [
     {
@@ -875,6 +875,122 @@
           "url": "https://reynolds.libcal.com/event/17450377"
         }
       ]
+    },
+    {
+      "id": "pg-20261118-franklin-zumba-1400et",
+      "title": "Zumba Gold + Chair Pilates (Virtual)",
+      "organizer": "Franklin Township Public Library",
+      "category": "Zumba / Pilates / fitness",
+      "startUtc": "2026-11-18T19:00:00.000Z",
+      "endUtc": "2026-11-18T19:45:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://franklintwp.libnet.info/event/16226921",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-18T18:05:17.333Z",
+      "sourceLocalStart": "2026-11-18T14:00:00-05:00",
+      "sourceLocalEnd": "2026-11-18T14:45:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "All levels, seated or standing; registration required",
+      "registrationUrl": "https://franklintwp.libnet.info/event/16226921",
+      "accessNotes": "Zoom link sent by email after registration",
+      "joinUrl": "",
+      "publicRoom": false,
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://franklintwp.libnet.info/event/16226921"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-dana-tai-1500et",
+      "title": "Tai Chi & Meditation (Virtual)",
+      "organizer": "Dana-Farber Zakim Center",
+      "category": "Tai Chi / meditation",
+      "startUtc": "2026-11-18T20:00:00.000Z",
+      "endUtc": "2026-11-18T20:45:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://myzakim.dana-farber.org/events/events/tai-chi-meditation-virtual-201",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-18T18:05:17.333Z",
+      "sourceLocalStart": "2026-11-18T15:00:00-05:00",
+      "sourceLocalEnd": "2026-11-18T15:45:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Instructor requests emergency contact privately in Zoom chat; eligibility and cost not stated",
+      "registrationUrl": "https://myzakim.dana-farber.org/events/events/tai-chi-meditation-virtual-201",
+      "accessNotes": "Dated event says meeting-style with passcode, complete public join route not established",
+      "joinUrl": "",
+      "publicRoom": false,
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://myzakim.dana-farber.org/events/events/tai-chi-meditation-virtual-201"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-communityfirst-zumba-1600ct",
+      "title": "Adult Virtual Zumba",
+      "organizer": "Community First Health Plans",
+      "category": "Zumba / fitness",
+      "startUtc": "2026-11-18T22:00:00.000Z",
+      "endUtc": "2026-11-18T23:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://communityfirsthealthplans.com/event/adult-virtual-zumba-11-18-26",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "free",
+      "price": "Free",
+      "checkedAtUtc": "2026-11-18T18:05:17.333Z",
+      "sourceLocalStart": "2026-11-18T16:00:00-06:00",
+      "sourceLocalEnd": "2026-11-18T17:00:00-06:00",
+      "sourceZone": "America/Chicago",
+      "restriction": "Adults; open public Zoom meeting",
+      "registrationUrl": "",
+      "accessNotes": "Public organizer dated event publishes meeting ID 830 8222 6036 and passcode Z2020",
+      "joinUrl": "https://us02web.zoom.us/j/83082226036?pwd=TVNvK3JlZDdaMjJWZEJ1R1QzRndjUT09",
+      "publicRoom": true,
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://communityfirsthealthplans.com/event/adult-virtual-zumba-11-18-26"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-mindfulmovements-yogaflow-1745et",
+      "title": "Zoom Yoga Flow with Robyn",
+      "organizer": "Mindful Movements Studio",
+      "category": "Yoga / fitness",
+      "startUtc": "2026-11-18T22:45:00.000Z",
+      "endUtc": "2026-11-18T23:45:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://app.punchpass.com/org/7078/classes/21100285",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Not displayed",
+      "checkedAtUtc": "2026-11-18T18:05:17.333Z",
+      "sourceLocalStart": "2026-11-18T17:45:00-05:00",
+      "sourceLocalEnd": "2026-11-18T18:45:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Account sign-in required to book",
+      "registrationUrl": "https://app.punchpass.com/org/7078/classes/21100285",
+      "accessNotes": "Event structured data explicitly confirms -05:00 offset, 1-hour duration and Zoom title",
+      "joinUrl": "",
+      "publicRoom": false,
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://app.punchpass.com/org/7078/classes/21100285"
+        }
+      ]
     }
   ],
   "unverified": [
@@ -1293,7 +1409,36 @@
         }
       ],
       "warning": "Organizer's original dated page could not be fetched live; independently confirm Zoom availability and instructor contact before promoting."
+    },
+    {
+      "id": "pg-20261118-cancersupport-journey-1500",
+      "title": "Journeying Inward — Deep Relaxation",
+      "organizer": "Cancer Support Center",
+      "category": "Wellness / relaxation",
+      "startUtc": "2026-11-18T20:00:00.000Z",
+      "endUtc": "2026-11-18T21:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://cancersupportcenter.org/event/journeying-inward-deep-relaxation-for-well-being-stress-virtual-3/2026-11-18",
+      "verification": "needs-verification",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-18T18:05:17.333Z",
+      "sourceLocalStart": "2026-11-18T15:00:00-05:00",
+      "sourceLocalEnd": "2026-11-18T16:00:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Eligibility unclear",
+      "registrationUrl": "https://us02web.zoom.us/meeting/register/tZcqcO2uqjwjG9y0h5YTb1qAl3QHbLcrOh4m",
+      "joinUrl": "",
+      "warning": "Search indexed dated event and Zoom registration, but organizer page returned HTTP 404; timezone assumed from organizer locality and needs confirmation.",
+      "accessNotes": "Source page 404 at verification",
+      "evidence": [
+        {
+          "label": "Original event page (404)",
+          "url": "https://cancersupportcenter.org/event/journeying-inward-deep-relaxation-for-well-being-stress-virtual-3/2026-11-18"
+        }
+      ]
     }
   ],
-  "feedRevision": "prompt-g-2026-11-18-193232-ist"
+  "feedRevision": "prompt-g-2026-11-18-233406-ist"
 }
