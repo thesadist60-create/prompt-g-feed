@@ -698,15 +698,14 @@
       "sourceZone": "America/New_York",
       "restriction": "All levels; event page says virtual via Zoom",
       "registrationUrl": "https://brainwavesyoga.betterworld.org/events/november-18-yoga",
-      "accessNotes": " Public Zoom link explicitly published on dated organizer page.",
-      "joinUrl": "Organizer page returned HTTP 403 on independent live fetch; search result carries dated occurrence.",
+      "accessNotes": " Public Zoom link explicitly published on dated organizer page. Organizer page returned HTTP 403 on independent live fetch; search result carries dated occurrence.",
+      "joinUrl": "",
       "evidence": [
         {
           "label": "Dated organizer event",
           "url": "https://brainwavesyoga.betterworld.org/events/november-18-yoga"
         }
-      ],
-      "publicRoom": true
+      ]
     },
     {
       "id": "pg-20261118-193232-003",
@@ -820,35 +819,6 @@
           "url": "https://dancepalace.org/event/pilates-with-lorraine-fisher-smith-6/2026-11-18"
         }
       ]
-    },
-    {
-      "id": "pg-20261118-193232-016",
-      "title": "Third Wednesday Open Meditations",
-      "organizer": "Awaken Pittsburgh",
-      "category": "Meditation / community",
-      "startUtc": "2026-11-18T17:00:00.000Z",
-      "endUtc": null,
-      "platform": "Zoom",
-      "sourceUrl": "https://vibeindex.club/event/pittsburgh-pa-third-wednesday-open-meditations-in-person-south-hills-or-via-zoom-nov-18-2026",
-      "verification": "verified",
-      "route": "registration",
-      "costType": "free",
-      "price": "Free; donations optional",
-      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
-      "sourceLocalStart": "2026-11-18T12:00-05:00",
-      "sourceLocalEnd": null,
-      "sourceZone": "America/New_York",
-      "restriction": "Online Zoom link emailed after registration; end time unverified",
-      "registrationUrl": "https://vibeindex.club/event/pittsburgh-pa-third-wednesday-open-meditations-in-person-south-hills-or-via-zoom-nov-18-2026",
-      "accessNotes": "false Public Zoom link explicitly published on dated organizer page.",
-      "joinUrl": "Secondary aggregator only, no organizer occurrence independently fetched.",
-      "evidence": [
-        {
-          "label": "Dated organizer event",
-          "url": "https://vibeindex.club/event/pittsburgh-pa-third-wednesday-open-meditations-in-person-south-hills-or-via-zoom-nov-18-2026"
-        }
-      ],
-      "publicRoom": true
     },
     {
       "id": "pg-20261118-193232-001",
@@ -981,15 +951,14 @@
       "sourceZone": "America/New_York",
       "restriction": "Online workshop; page title says In-Person but event lists Online and Zoom email",
       "registrationUrl": "https://reynolds.libcal.com/event/17450377",
-      "accessNotes": " Public Zoom link explicitly published on dated organizer page.",
-      "joinUrl": "Conflicting In-Person header versus Online campus; Zoom link stated.",
+      "accessNotes": " Public Zoom link explicitly published on dated organizer page. Conflicting In-Person header versus Online campus; Zoom link stated.",
+      "joinUrl": "",
       "evidence": [
         {
           "label": "Dated organizer event",
           "url": "https://reynolds.libcal.com/event/17450377"
         }
-      ],
-      "publicRoom": true
+      ]
     }
   ],
   "unverified": [
@@ -1292,6 +1261,35 @@
       "price": "Not verified",
       "restriction": "Booking required",
       "warning": "Search index lists Nov 18 Zoom occurrence but public organizer page returned outdated May 2026 calendar; start and booking state require reconfirmation."
+    },
+    {
+      "id": "pg-20261118-193232-016",
+      "title": "Third Wednesday Open Meditations",
+      "organizer": "Awaken Pittsburgh",
+      "category": "Meditation / community",
+      "startUtc": "2026-11-18T17:00:00.000Z",
+      "endUtc": null,
+      "platform": "Zoom",
+      "sourceUrl": "https://vibeindex.club/event/pittsburgh-pa-third-wednesday-open-meditations-in-person-south-hills-or-via-zoom-nov-18-2026",
+      "verification": "needs-verification",
+      "route": "registration",
+      "costType": "free",
+      "price": "Free; donations optional",
+      "checkedAtUtc": "2026-11-18T14:05:15.000Z",
+      "sourceLocalStart": "2026-11-18T12:00-05:00",
+      "sourceLocalEnd": null,
+      "sourceZone": "America/New_York",
+      "restriction": "Online Zoom link emailed after registration; end time unverified",
+      "registrationUrl": "https://vibeindex.club/event/pittsburgh-pa-third-wednesday-open-meditations-in-person-south-hills-or-via-zoom-nov-18-2026",
+      "accessNotes": "Secondary aggregator only; original organizer dated occurrence and end time not independently verified.",
+      "joinUrl": "",
+      "evidence": [
+        {
+          "label": "Dated organizer event",
+          "url": "https://vibeindex.club/event/pittsburgh-pa-third-wednesday-open-meditations-in-person-south-hills-or-via-zoom-nov-18-2026"
+        }
+      ],
+      "warning": "Secondary aggregator only; original organizer dated occurrence and end time not independently verified."
     }
   ],
   "feedRevision": "prompt-g-2026-11-18-193232-ist"
