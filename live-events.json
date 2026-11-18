@@ -4,10 +4,10 @@
     "startUtc": "2026-11-18T01:58:32.000Z",
     "endUtc": "2026-11-18T06:58:32.000Z"
   },
-  "updatedAtUtc": "2026-11-18T02:00:00.000Z",
+  "updatedAtUtc": "2026-11-18T02:00:07.000Z",
   "checkWindow": {
     "startUtc": "2026-11-18T01:58:32.000Z",
-    "endUtc": "2026-11-18T02:00:00.000Z"
+    "endUtc": "2026-11-18T02:00:07.000Z"
   },
   "events": [
     {
@@ -2051,7 +2051,7 @@
       "route": "registration",
       "costType": "free",
       "price": "",
-      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "checkedAtUtc": "2026-11-18T02:00:07.000Z",
       "sourceLocalStart": "2026-11-17T18:00:00-08:00",
       "sourceLocalEnd": "2026-11-17T20:00:00-08:00",
       "sourceZone": "America/Los_Angeles",
@@ -2163,7 +2163,7 @@
       "route": "registration",
       "costType": "free",
       "price": "",
-      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "checkedAtUtc": "2026-11-18T02:00:07.000Z",
       "sourceLocalStart": "2026-11-17T18:30:00-08:00",
       "sourceLocalEnd": "2026-11-17T19:30:00-08:00",
       "sourceZone": "America/Los_Angeles",
@@ -2248,7 +2248,7 @@
       "route": "direct",
       "costType": "free",
       "price": "",
-      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "checkedAtUtc": "2026-11-18T02:00:07.000Z",
       "sourceLocalStart": "2026-11-17T19:00:00-08:00",
       "sourceLocalEnd": "2026-11-17T20:00:00-08:00",
       "sourceZone": "America/Los_Angeles",
@@ -2276,7 +2276,7 @@
       "route": "registration",
       "costType": "free",
       "price": "",
-      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "checkedAtUtc": "2026-11-18T02:00:07.000Z",
       "sourceLocalStart": "2026-11-17T19:00:00-08:00",
       "sourceLocalEnd": "2026-11-17T20:30:00-08:00",
       "sourceZone": "America/Los_Angeles",
@@ -2326,25 +2326,26 @@
       "startUtc": "2026-11-18T03:30:00.000Z",
       "endUtc": "2026-11-18T04:30:00.000Z",
       "platform": "Zoom",
-      "sourceUrl": "https://tushita.info/events/category/meditation/",
+      "sourceUrl": "https://tushita.info/program/drop-in-sessions/daily-guided-meditations/",
       "verification": "needs-verification",
       "route": "unresolved",
       "costType": "donation",
       "price": "",
-      "checkedAtUtc": "2026-11-17T23:51:25.052Z",
+      "checkedAtUtc": "2026-11-18T02:00:07.000Z",
       "sourceLocalStart": "2026-11-18T09:00:00+05:30",
       "sourceLocalEnd": "2026-11-18T10:00:00+05:30",
       "sourceZone": "Asia/Kolkata",
       "restriction": "Short course may suspend daily drop-ins",
       "registrationUrl": "",
-      "accessNotes": "NEEDS MANUAL CHECK — Short course may suspend daily drop-ins",
-      "warning": "NEEDS MANUAL CHECK — Short course may suspend daily drop-ins",
+      "accessNotes": "NEEDS MANUAL CHECK — daily sessions may be suspended during short courses; direct Zoom URL published but specific Nov 18 occurrence not confirmed.",
+      "warning": "NEEDS MANUAL CHECK — daily sessions may be suspended during short courses; direct Zoom URL published but specific Nov 18 occurrence not confirmed.",
       "evidence": [
         {
-          "label": "Public organizer/event page",
-          "url": "https://tushita.info/events/category/meditation/"
+          "label": "Dated organizer or event listing",
+          "url": "https://tushita.info/program/drop-in-sessions/daily-guided-meditations/"
         }
-      ]
+      ],
+      "joinUrl": "https://us02web.zoom.us/j/88162462162?pwd=g8v6aCn4IHs5B0t25AH1ZFyPlLXaGV.1"
     },
     {
       "id": "pg-20261118-072832-05",
@@ -2359,7 +2360,7 @@
       "route": "registration",
       "costType": "paid",
       "price": "USD 15",
-      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "checkedAtUtc": "2026-11-18T02:00:07.000Z",
       "sourceLocalStart": "2026-11-17T19:30:00-08:00",
       "sourceLocalEnd": "2026-11-17T21:00:00-08:00",
       "sourceZone": "America/Los_Angeles",
@@ -2372,34 +2373,6 @@
           "url": "https://www.smzc.org/events-1/fall-study-group-on-site-or-online-week-6-of-8-only-2026-11-17-19-30"
         }
       ]
-    },
-    {
-      "id": "pg-20261118-072832-07",
-      "title": "Tushita — Daily Guided Meditation",
-      "organizer": "Tushita Meditation Centre",
-      "category": "Meditation / wellness",
-      "startUtc": "2026-11-18T03:30:00.000Z",
-      "endUtc": "2026-11-18T04:30:00.000Z",
-      "platform": "Zoom",
-      "sourceUrl": "https://tushita.info/program/drop-in-sessions/daily-guided-meditations/",
-      "verification": "needs-verification",
-      "route": "direct",
-      "costType": "donation",
-      "price": "",
-      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
-      "sourceLocalStart": "2026-11-18T09:00:00+05:30",
-      "sourceLocalEnd": "2026-11-18T10:00:00+05:30",
-      "sourceZone": "Asia/Kolkata",
-      "restriction": "",
-      "registrationUrl": "",
-      "accessNotes": "NEEDS MANUAL CHECK — daily sessions may be suspended during short courses; direct Zoom URL published but specific Nov 18 occurrence not confirmed.",
-      "evidence": [
-        {
-          "label": "Dated organizer or event listing",
-          "url": "https://tushita.info/program/drop-in-sessions/daily-guided-meditations/"
-        }
-      ],
-      "joinUrl": "https://us02web.zoom.us/j/88162462162?pwd=g8v6aCn4IHs5B0t25AH1ZFyPlLXaGV.1"
     },
     {
       "id": "pg-20261118-050333-016",
@@ -2441,7 +2414,7 @@
       "route": "registration",
       "costType": "donation",
       "price": "",
-      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "checkedAtUtc": "2026-11-18T02:00:07.000Z",
       "sourceLocalStart": "2026-11-17T20:00:00-08:00",
       "sourceLocalEnd": "2026-11-17T20:30:00-08:00",
       "sourceZone": "America/Los_Angeles",
@@ -2456,5 +2429,5 @@
       ]
     }
   ],
-  "feedRevision": "prompt-g-2026-11-18-054923-ist1"
+  "feedRevision": "prompt-g-2026-11-18-072832-ist"
 }
