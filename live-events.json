@@ -1,13 +1,13 @@
 {
   "version": 1,
   "window": {
-    "startUtc": "2026-11-18T00:19:23.000Z",
-    "endUtc": "2026-11-18T04:19:23.000Z"
+    "startUtc": "2026-11-18T01:58:32.000Z",
+    "endUtc": "2026-11-18T06:58:32.000Z"
   },
-  "updatedAtUtc": "2026-11-18T01:42:14.000Z",
+  "updatedAtUtc": "2026-11-18T02:00:00.000Z",
   "checkWindow": {
-    "startUtc": "2026-11-18T00:19:23.000Z",
-    "endUtc": "2026-11-18T01:42:14.000Z"
+    "startUtc": "2026-11-18T01:58:32.000Z",
+    "endUtc": "2026-11-18T02:00:00.000Z"
   },
   "events": [
     {
@@ -2039,6 +2039,33 @@
       ]
     },
     {
+      "id": "pg-20261118-072832-01",
+      "title": "Financial Calculator — Free Hands-on Workshop",
+      "organizer": "LA South Real Estate Investors Association",
+      "category": "Finance / business",
+      "startUtc": "2026-11-18T02:00:00.000Z",
+      "endUtc": "2026-11-18T04:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.meetup.com/lasouthreia/events/317364069/",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "sourceLocalStart": "2026-11-17T18:00:00-08:00",
+      "sourceLocalEnd": "2026-11-17T20:00:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "",
+      "registrationUrl": "https://us06web.zoom.us/meeting/register/5qLgMOTbRQ-SS5LYJ-VQoA",
+      "accessNotes": "CONFIRMED — REGISTRATION REQUIRED. Free workshop; optional/preparatory calculator app costs $6; duration advertised 2+ hours.",
+      "evidence": [
+        {
+          "label": "Dated organizer or event listing",
+          "url": "https://www.meetup.com/lasouthreia/events/317364069/"
+        }
+      ]
+    },
+    {
       "id": "pg-20261118-050333-007",
       "title": "Insight Community of the Desert — Meditation as Refuge",
       "organizer": "Insight Community of the Desert",
@@ -2124,6 +2151,33 @@
       ]
     },
     {
+      "id": "pg-20261118-072832-02",
+      "title": "Mindfulness and Compassion Practice Group",
+      "organizer": "Minding the Waves",
+      "category": "Meditation / wellness",
+      "startUtc": "2026-11-18T02:30:00.000Z",
+      "endUtc": "2026-11-18T03:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.mindingthewaves.com/event-details/online-mindfulness-and-compassion-practice-groups-free-group-with-voluntary-generosity-2026-11-17-18-30",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "sourceLocalStart": "2026-11-17T18:30:00-08:00",
+      "sourceLocalEnd": "2026-11-17T19:30:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "",
+      "registrationUrl": "https://www.mindingthewaves.com/event-details/online-mindfulness-and-compassion-practice-groups-free-group-with-voluntary-generosity-2026-11-17-18-30",
+      "accessNotes": "CONFIRMED — REGISTRATION REQUIRED. $0 ticket, voluntary donations. Zoom room sent after booking.",
+      "evidence": [
+        {
+          "label": "Dated organizer or event listing",
+          "url": "https://www.mindingthewaves.com/event-details/online-mindfulness-and-compassion-practice-groups-free-group-with-voluntary-generosity-2026-11-17-18-30"
+        }
+      ]
+    },
+    {
       "id": "pg-20261118-050333-008",
       "title": "Dzogchen West — Meditation and Dharma Q&A",
       "organizer": "Dzogchen West",
@@ -2178,6 +2232,61 @@
         {
           "label": "Organizer event/registration page",
           "url": "https://pszc.org/calendar/700pm-800pm-evening-service-2-2/2026-11-17/"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-072832-03",
+      "title": "Sahaja Yoga — One Hour Guided Meditation",
+      "organizer": "Sahaja Yoga Free Meditation LA",
+      "category": "Meditation / wellness",
+      "startUtc": "2026-11-18T03:00:00.000Z",
+      "endUtc": "2026-11-18T04:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.meetup.com/sahajayogameditationla/events/xljvjtyjcpbwb/",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "sourceLocalStart": "2026-11-17T19:00:00-08:00",
+      "sourceLocalEnd": "2026-11-17T20:00:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "",
+      "registrationUrl": "",
+      "accessNotes": "CONFIRMED — DIRECT JOIN. Public Zoom meeting 851 2224 6397; passcode sym108; link in accessNotes. https://us02web.zoom.us/j/85122246397?pwd=sym108",
+      "evidence": [
+        {
+          "label": "Dated organizer or event listing",
+          "url": "https://www.meetup.com/sahajayogameditationla/events/xljvjtyjcpbwb/"
+        }
+      ],
+      "joinUrl": "https://us02web.zoom.us/j/85122246397?pwd=sym108"
+    },
+    {
+      "id": "pg-20261118-072832-04",
+      "title": "Eternal Song — Film Reflection and Discussion",
+      "organizer": "Work That Reconnects Network",
+      "category": "Community / discussion",
+      "startUtc": "2026-11-18T03:00:00.000Z",
+      "endUtc": "2026-11-18T04:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://workthatreconnects.org/event/eternal-song-film-discussion/",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "free",
+      "price": "",
+      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "sourceLocalStart": "2026-11-17T19:00:00-08:00",
+      "sourceLocalEnd": "2026-11-17T20:30:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "",
+      "registrationUrl": "https://donorbox.org/events/969103",
+      "accessNotes": "CONFIRMED — REGISTRATION REQUIRED. $0 donation option for 48-hour film access; registration email supplies Zoom access.",
+      "evidence": [
+        {
+          "label": "Dated organizer or event listing",
+          "url": "https://workthatreconnects.org/event/eternal-song-film-discussion/"
         }
       ]
     },
@@ -2238,6 +2347,61 @@
       ]
     },
     {
+      "id": "pg-20261118-072832-05",
+      "title": "Sonoma Zen — Fall Study Group Week 6",
+      "organizer": "Sonoma Mountain Zen Center",
+      "category": "Meditation / learning",
+      "startUtc": "2026-11-18T03:30:00.000Z",
+      "endUtc": "2026-11-18T05:00:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://www.smzc.org/events-1/fall-study-group-on-site-or-online-week-6-of-8-only-2026-11-17-19-30",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "paid",
+      "price": "USD 15",
+      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "sourceLocalStart": "2026-11-17T19:30:00-08:00",
+      "sourceLocalEnd": "2026-11-17T21:00:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "",
+      "registrationUrl": "https://www.smzc.org/events-1/fall-study-group-on-site-or-online-week-6-of-8-only-2026-11-17-19-30",
+      "accessNotes": "CONFIRMED — REGISTRATION REQUIRED. $15 ticket, online Zoom option.",
+      "evidence": [
+        {
+          "label": "Dated organizer or event listing",
+          "url": "https://www.smzc.org/events-1/fall-study-group-on-site-or-online-week-6-of-8-only-2026-11-17-19-30"
+        }
+      ]
+    },
+    {
+      "id": "pg-20261118-072832-07",
+      "title": "Tushita — Daily Guided Meditation",
+      "organizer": "Tushita Meditation Centre",
+      "category": "Meditation / wellness",
+      "startUtc": "2026-11-18T03:30:00.000Z",
+      "endUtc": "2026-11-18T04:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://tushita.info/program/drop-in-sessions/daily-guided-meditations/",
+      "verification": "needs-verification",
+      "route": "direct",
+      "costType": "donation",
+      "price": "",
+      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "sourceLocalStart": "2026-11-18T09:00:00+05:30",
+      "sourceLocalEnd": "2026-11-18T10:00:00+05:30",
+      "sourceZone": "Asia/Kolkata",
+      "restriction": "",
+      "registrationUrl": "",
+      "accessNotes": "NEEDS MANUAL CHECK — daily sessions may be suspended during short courses; direct Zoom URL published but specific Nov 18 occurrence not confirmed.",
+      "evidence": [
+        {
+          "label": "Dated organizer or event listing",
+          "url": "https://tushita.info/program/drop-in-sessions/daily-guided-meditations/"
+        }
+      ],
+      "joinUrl": "https://us02web.zoom.us/j/88162462162?pwd=g8v6aCn4IHs5B0t25AH1ZFyPlLXaGV.1"
+    },
+    {
       "id": "pg-20261118-050333-016",
       "title": "Thubten Norbu Ling — Evening Purification",
       "organizer": "Thubten Norbu Ling",
@@ -2263,7 +2427,34 @@
           "url": "https://tnlsf.org/events/2026-11-17/"
         }
       ]
+    },
+    {
+      "id": "pg-20261118-072832-06",
+      "title": "Relax and Rejuvenate Nightly Meditation",
+      "organizer": "Anubhuti Retreat Center",
+      "category": "Meditation / wellness",
+      "startUtc": "2026-11-18T04:00:00.000Z",
+      "endUtc": "2026-11-18T04:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://anubhutiretreatcenter.org/events/relax-and-rejuvenate-714-912-874/?occurrence=2026-11-17",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "donation",
+      "price": "",
+      "checkedAtUtc": "2026-11-18T02:00:00.000Z",
+      "sourceLocalStart": "2026-11-17T20:00:00-08:00",
+      "sourceLocalEnd": "2026-11-17T20:30:00-08:00",
+      "sourceZone": "America/Los_Angeles",
+      "restriction": "",
+      "registrationUrl": "https://anubhutiretreatcenter.org/events/relax-and-rejuvenate-714-912-874/?occurrence=2026-11-17",
+      "accessNotes": "CONFIRMED — REGISTRATION REQUIRED. Organizer says click Next to receive Zoom credentials by email; contribution requested, no fixed mandatory price stated.",
+      "evidence": [
+        {
+          "label": "Dated organizer or event listing",
+          "url": "https://anubhutiretreatcenter.org/events/relax-and-rejuvenate-714-912-874/?occurrence=2026-11-17"
+        }
+      ]
     }
   ],
-  "feedRevision": "prompt-g-2026-11-18-054923-ist"
+  "feedRevision": "prompt-g-2026-11-18-054923-ist1"
 }
