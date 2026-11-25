@@ -1,39 +1,39 @@
 {
   "version": 1,
   "window": {
-    "startUtc": "2026-11-25T22:24:09.000Z",
-    "endUtc": "2026-11-26T03:24:09.000Z"
+    "startUtc": "2026-11-25T22:29:49.000Z",
+    "endUtc": "2026-11-26T03:29:49.000Z"
   },
-  "updatedAtUtc": "2026-11-25T22:25:29.000Z",
+  "updatedAtUtc": "2026-11-25T22:30:40.000Z",
   "checkWindow": {
-    "startUtc": "2026-11-25T22:24:09.000Z",
-    "endUtc": "2026-11-25T22:25:29.000Z"
+    "startUtc": "2026-11-25T22:29:49.000Z",
+    "endUtc": "2026-11-25T22:30:40.000Z"
   },
   "events": [
     {
-      "id": "pg-20261126-rigpa-001",
-      "title": "Rigpa USA — 20 Minute Meditation",
-      "organizer": "Rigpa USA",
+      "id": "pg-20261126-daily-ew-001",
+      "title": "Daily Online Meditation",
+      "organizer": "Everyday Wellbeing",
       "category": "Meditation",
-      "startUtc": "2026-11-26T01:00:00.000Z",
-      "endUtc": "2026-11-26T01:20:00.000Z",
+      "startUtc": "2026-11-26T12:00:00.000Z",
+      "endUtc": "2026-11-26T12:20:00.000Z",
       "platform": "Zoom",
-      "sourceUrl": "https://en.prajnaonline.org/live/rigpa-usa-20-minute-meditation-nov24",
+      "sourceUrl": "https://everydaywellbeing.org/event-details-registration/daily-online-meditation-2026-11-26-07-00",
       "verification": "verified",
       "route": "direct",
       "costType": "free",
       "price": "Free",
-      "checkedAtUtc": "2026-11-26T00:00:00.000Z",
-      "sourceLocalStart": "2026-11-26T17:00:00-08:00",
-      "sourceLocalEnd": "2026-11-26T17:20:00-08:00",
-      "sourceZone": "America/Los_Angeles",
-      "restriction": "Open to all; no signup needed per organizer",
+      "checkedAtUtc": "2026-11-25T22:30:40.000Z",
+      "sourceLocalStart": "2026-11-26T07:00:00-05:00",
+      "sourceLocalEnd": "2026-11-26T07:20:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Everyone welcome",
       "registrationUrl": "",
-      "accessNotes": "Prajna's occurrence page states public Zoom direct access; no room accessed or admission tested.",
-      "joinUrl": ""
+      "accessNotes": "Occurrence page provides public Zoom link; no room entered or access-tested.",
+      "joinUrl": "https://us02web.zoom.us/j/88288716717?pwd=lktOQ11LuQPWexgPNvcK5GZBEOa2LX.1"
     },
     {
-      "id": "pg-20261126-pssm-001",
+      "id": "pg-20261126-hk-001",
       "title": "Hong Kong Meditation Group AM Session",
       "organizer": "Hong Kong Meditation Group",
       "category": "Meditation",
@@ -45,22 +45,22 @@
       "route": "manual",
       "costType": "unknown",
       "price": "Not stated",
-      "checkedAtUtc": "2026-11-26T00:00:00.000Z",
+      "checkedAtUtc": "2026-11-25T22:30:40.000Z",
       "sourceLocalStart": "2026-11-26T08:30:00+08:00",
       "sourceLocalEnd": "2026-11-26T09:30:00+08:00",
       "sourceZone": "Asia/Hong_Kong",
-      "restriction": "Manual check: occurrence page date current, but Zoom details embedded are from 2023 and may be stale",
+      "restriction": "Not established",
       "registrationUrl": "",
-      "accessNotes": "The event-specific page carries historic meeting details; do not rely on them without fresh organizer confirmation.",
+      "accessNotes": "Page embeds historic 2023 meeting credentials; don't rely on them without fresh organizer confirmation.",
       "joinUrl": ""
     }
   ],
   "unverified": [
     {
       "title": "Hong Kong Meditation Group AM Session",
-      "status": "NEEDS MANUAL CHECK — stale Zoom details (embedded description refers to 20 April 2023)",
+      "status": "NEEDS MANUAL CHECK — embedded Zoom details are dated 20 April 2023",
       "sourceUrl": "https://pssmglobal.org/event/hong-kong-meditation-group-2-2/2026-11-26"
     }
   ],
-  "feedRevision": "prompt-g-2026-11-26-035409-ist"
+  "feedRevision": "prompt-g-2026-11-26-035949-ist"
 }
