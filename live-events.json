@@ -1,1 +1,66 @@
-{"version":1,"window":{"startUtc":"2026-11-25T23:23:37.000Z","endUtc":"2026-11-26T03:23:37.000Z"},"updatedAtUtc":"2026-11-25T23:29:00.000Z","checkWindow":{"startUtc":"2026-11-25T23:23:37.000Z","endUtc":"2026-11-26T03:23:37.000Z"},"events":[{"id":"pg-20261126-kcc-am-001","title":"Morning Meditation","organizer":"Kagyu Changchub Chuling","category":"Meditation","startUtc":"2026-11-26T15:00:00Z","endUtc":"2026-11-26T15:45:00Z","platform":"Zoom","sourceUrl":"https://staging2.kcc.org/event/morning-meditation-2-2/2026-11-26","verification":"verified","route":"direct","costType":"unknown","price":"Not stated","checkedAtUtc":"2026-11-25T23:28:00Z","sourceLocalStart":"2026-11-26T07:00:00-08:00","sourceLocalEnd":"2026-11-26T07:45:00-08:00","sourceZone":"America/Los_Angeles","restriction":"Open online meditation; audience restriction not stated","registrationUrl":"","accessNotes":"Organizer page provides direct Zoom link and passcode 072668.","joinUrl":"https://us02web.zoom.us/j/93231544844?pwd=MitUR1dWa0RYalRxeGIzTzYyMmZsQT09","passcode":"072668"},{"id":"pg-20261126-ctstate-yoga-001","title":"Virtual Yoga (Three Rivers)","organizer":"CT State Community College — Three Rivers Student Programs Office","category":"Yoga","startUtc":"2026-11-26T13:00:00Z","endUtc":"2026-11-26T14:00:00Z","platform":"Zoom","sourceUrl":"https://engage.ctstate.edu/event/12783757","verification":"verified","route":"registration","costType":"unknown","price":"Not stated","checkedAtUtc":"2026-11-25T23:28:00Z","sourceLocalStart":"2026-11-26T08:00:00-05:00","sourceLocalEnd":"2026-11-26T09:00:00-05:00","sourceZone":"America/New_York","restriction":"Publicly listed college event; RSVP action requires portal sign-in; page states inclusive/non-discriminatory access.","registrationUrl":"https://engage.ctstate.edu/event/12783757","accessNotes":"Zoom online instructions show meeting ID/passcode; RSVP requires sign in. Join Event Online link visible on occurrence page.","joinUrl":"https://us06web.zoom.us/j/88472050905","passcode":"344121"},{"id":"pg-20261126-tanya-flow-001","title":"Morning Flow and Meditation (Free)","organizer":"Tanya Cauble Yoga","category":"Yoga/Meditation","startUtc":"2026-11-26T14:00:00Z","endUtc":"2026-11-26T14:30:00Z","platform":"Zoom","sourceUrl":"https://www.tanyacaubleyoga.com/schedule/5c3ea7d4-8c24-4a22-903d-82aec6ae1563_1795701600","verification":"verified","route":"registration","costType":"free","price":"Free; optional donation","checkedAtUtc":"2026-11-25T23:28:00Z","sourceLocalStart":"2026-11-26T06:00:00-08:00","sourceLocalEnd":"2026-11-26T06:30:00-08:00","sourceZone":"America/Los_Angeles","restriction":"Open registration; attendee provides name/email","registrationUrl":"https://www.tanyacaubleyoga.com/schedule/5c3ea7d4-8c24-4a22-903d-82aec6ae1563_1795701600","accessNotes":"Organizer issues Zoom link by email after registration; no link is public on page.","joinUrl":""},{"id":"pg-20261126-breema-self-001","title":"Body-Mind Connection Keeps You Present — Self-Breema","organizer":"The Breema Center","category":"Wellness/Movement","startUtc":"2026-11-26T17:00:00Z","endUtc":"2026-11-26T17:45:00Z","platform":"Zoom","sourceUrl":"https://www.breema.com/events/2026-11-26/body-mind-connection-keeps-you-present-ongoing-self-breema-class","verification":"verified","route":"registration","costType":"unknown","price":"Not stated on extracted event details","checkedAtUtc":"2026-11-25T23:28:00Z","sourceLocalStart":"2026-11-26T09:00:00-08:00","sourceLocalEnd":"2026-11-26T09:45:00-08:00","sourceZone":"America/Los_Angeles","restriction":"Open worldwide; registration required","registrationUrl":"https://www.breema.com/events/2026-11-26/body-mind-connection-keeps-you-present-ongoing-self-breema-class","accessNotes":"Organizer page says register; same link supports ongoing Thursday sessions. Zoom access not exposed until registration.","joinUrl":""},{"id":"pg-20261126-nasw-breath-001","title":"Thoughtful Thursday: Breathwork & Mindfulness for Social Workers","organizer":"NASW Michigan","category":"Breathwork/Mindfulness","startUtc":"2026-11-26T18:00:00Z","endUtc":"2026-11-26T19:00:00Z","platform":"Zoom","sourceUrl":"https://nasw-michigan.org/m/event_details.asp?id=2060888","verification":"verified","route":"registration","costType":"unknown","price":"Not stated","checkedAtUtc":"2026-11-25T23:28:00Z","sourceLocalStart":"2026-11-26T13:00:00-05:00","sourceLocalEnd":"2026-11-26T14:00:00-05:00","sourceZone":"America/New_York","restriction":"Designed for social workers; Zoom Events registration","registrationUrl":"https://events.zoom.us/ev/AvkJq-XJy2DSNRZcx-ii8qJFvftzEdfilpFngfciQeTu83hcNWAV~AuHLrd33FNFp7OGh-vWglA7MMHvPfmMVcWiEQ5W7zLUUU97y6vK2f5zfog","accessNotes":"Date-specific Zoom event registration link provided by organizer.","joinUrl":""}],"unverified":[{"title":"InStill Mindfulness — Thursday Evening Meditation","status":"PAST / EXPIRED — 7:00pm Eastern is outside the IST four-hour window","sourceUrl":"https://instillmindfulness.org/event/thursday-evening-meditation/2026-11-26/"},{"title":"Mindful Directory — Free Worldwide Online Sit","status":"NEEDS MANUAL CHECK — occurrence time is outside window and platform not specified","sourceUrl":"https://www.mindfuldirectory.org/event/free-worldwide-online-sit/2026-11-26/"},{"title":"Mind Body Solutions — Seated Adaptive Yoga","status":"NEEDS MANUAL CHECK — fetched occurrence resolves to historic March 2021, not Nov 26 2026","sourceUrl":"https://www.mindbodysolutions.org/event/thursdays-seated-adaptive-yoga/2026-11-26/"},{"title":"Yoga Moves — Thankful for Savasana","status":"PAST / EXPIRED — 17:00 Amsterdam local, outside window","sourceUrl":"https://www.yogamoves.nl/workshops-events/25years-lizzie"}],"feedRevision":"prompt-g-2026-11-26-045337-ist"}
+{
+  "version": 1,
+  "window": {
+    "startUtc": "2026-11-25T22:29:49.000Z",
+    "endUtc": "2026-11-26T03:29:49.000Z"
+  },
+  "updatedAtUtc": "2026-11-25T22:30:40.000Z",
+  "checkWindow": {
+    "startUtc": "2026-11-25T22:29:49.000Z",
+    "endUtc": "2026-11-25T22:30:40.000Z"
+  },
+  "events": [
+    {
+      "id": "pg-20261126-daily-ew-001",
+      "title": "Daily Online Meditation",
+      "organizer": "Everyday Wellbeing",
+      "category": "Meditation",
+      "startUtc": "2026-11-26T12:00:00.000Z",
+      "endUtc": "2026-11-26T12:20:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://everydaywellbeing.org/event-details-registration/daily-online-meditation-2026-11-26-07-00",
+      "verification": "verified",
+      "route": "direct",
+      "costType": "free",
+      "price": "Free",
+      "checkedAtUtc": "2026-11-25T22:30:40.000Z",
+      "sourceLocalStart": "2026-11-26T07:00:00-05:00",
+      "sourceLocalEnd": "2026-11-26T07:20:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Everyone welcome",
+      "registrationUrl": "",
+      "accessNotes": "Occurrence page provides public Zoom link; no room entered or access-tested.",
+      "joinUrl": "https://us02web.zoom.us/j/88288716717?pwd=lktOQ11LuQPWexgPNvcK5GZBEOa2LX.1"
+    },
+    {
+      "id": "pg-20261126-hk-001",
+      "title": "Hong Kong Meditation Group AM Session",
+      "organizer": "Hong Kong Meditation Group",
+      "category": "Meditation",
+      "startUtc": "2026-11-26T00:30:00.000Z",
+      "endUtc": "2026-11-26T01:30:00.000Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://pssmglobal.org/event/hong-kong-meditation-group-2-2/2026-11-26",
+      "verification": "manual",
+      "route": "manual",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-25T22:30:40.000Z",
+      "sourceLocalStart": "2026-11-26T08:30:00+08:00",
+      "sourceLocalEnd": "2026-11-26T09:30:00+08:00",
+      "sourceZone": "Asia/Hong_Kong",
+      "restriction": "Not established",
+      "registrationUrl": "",
+      "accessNotes": "Page embeds historic 2023 meeting credentials; don't rely on them without fresh organizer confirmation.",
+      "joinUrl": ""
+    }
+  ],
+  "unverified": [
+    {
+      "title": "Hong Kong Meditation Group AM Session",
+      "status": "NEEDS MANUAL CHECK — embedded Zoom details are dated 20 April 2023",
+      "sourceUrl": "https://pssmglobal.org/event/hong-kong-meditation-group-2-2/2026-11-26"
+    }
+  ],
+  "feedRevision": "prompt-g-2026-11-26-035949-ist"
+}
