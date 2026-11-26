@@ -1,108 +1,101 @@
 {
   "version": 1,
   "window": {
-    "startUtc": "2026-11-26T14:01:53Z",
-    "endUtc": "2026-11-26T19:01:53Z"
+    "startUtc": "2026-11-26T18:03:45Z",
+    "endUtc": "2026-11-26T23:03:45Z"
   },
-  "updatedAtUtc": "2026-11-26T14:18:00Z",
+  "updatedAtUtc": "2026-11-26T18:22:00Z",
   "checkWindow": {
-    "startUtc": "2026-11-26T14:01:53Z",
-    "endUtc": "2026-11-26T19:01:53Z"
+    "startUtc": "2026-11-26T18:03:45Z",
+    "endUtc": "2026-11-26T23:03:45Z"
   },
   "events": [
     {
-      "id": "pg-20261126-yogamoves-savasana-001",
-      "title": "25 Years Free Online Class | Thankful for Savasana with Lizzie Lasater",
-      "organizer": "Yoga Moves",
-      "category": "Yoga/Restorative",
-      "startUtc": "2026-11-26T16:00:00Z",
-      "endUtc": "2026-11-26T16:30:00Z",
-      "platform": "Zoom",
-      "sourceUrl": "https://yogamoves.nl/workshops-events/25years-lizzie",
-      "verification": "verified",
-      "route": "registration",
-      "costType": "free",
-      "price": "Free",
-      "checkedAtUtc": "2026-11-26T14:17:00Z",
-      "sourceLocalStart": "2026-11-26T17:00:00+01:00",
-      "sourceLocalEnd": "2026-11-26T17:30:00+01:00",
-      "sourceZone": "Europe/Amsterdam",
-      "restriction": "All welcome; registration required; Zoom link emailed 15–30 minutes before",
-      "registrationUrl": "https://yogamoves.nl/workshops-events/25years-lizzie",
-      "accessNotes": "Organizer page provides exact date/time, Zoom platform, free price and email-delivery rule; no registration submitted.",
-      "joinUrl": ""
-    },
-    {
-      "id": "pg-20261126-mindful-taster-001",
-      "title": "Evening taster: Mindfulness and compassion",
-      "organizer": "Sussex Mindfulness & Compassion",
-      "category": "Mindfulness/Meditation",
+      "id": "pg-20261126-darwen-meditation-001",
+      "title": "Online Meditation",
+      "organizer": "Darwen Yoga, Meditation and Spirituality Meetup Group",
+      "category": "Meditation",
       "startUtc": "2026-11-26T18:00:00Z",
-      "endUtc": "2026-11-26T19:00:00Z",
+      "endUtc": "2026-11-26T18:30:00Z",
       "platform": "Zoom",
-      "sourceUrl": "https://www.mindfuldirectory.org/event/evening-taster-mindfulness-and-compassion-free/",
+      "sourceUrl": "https://www.meetup.com/darwen-yoga-meditation-spirituality-meetup-group/events/rsfmgtyjcpbjc/",
       "verification": "verified",
       "route": "registration",
       "costType": "free",
       "price": "Free",
-      "checkedAtUtc": "2026-11-26T14:17:30Z",
+      "checkedAtUtc": "2026-11-26T18:20:00Z",
       "sourceLocalStart": "2026-11-26T18:00:00Z",
-      "sourceLocalEnd": "2026-11-26T19:00:00Z",
+      "sourceLocalEnd": "2026-11-26T18:30:00Z",
       "sourceZone": "UTC",
-      "restriction": "Designed for beginners/returners and people exploring mindfulness and compassion; booking required",
-      "registrationUrl": "https://sussexmindfulnesscentre.nhs.uk/event/free-mindfulness-taster-33/",
-      "accessNotes": "Organizer listing confirms exact date/time, GMT, Zoom, free cost and booking action; direct meeting link not public.",
+      "restriction": "Open to all; RSVP then register to receive the Zoom link",
+      "registrationUrl": "https://www.meetup.com/darwen-yoga-meditation-spirituality-meetup-group/events/rsfmgtyjcpbjc/",
+      "accessNotes": "Specific Nov 26 occurrence, UTC time, Zoom delivery and RSVP/registration sequence verified; no registration submitted.",
       "joinUrl": ""
     },
     {
-      "id": "pg-20261126-nasw-breath-001",
-      "title": "Thoughtful Thursday: Breathwork & Mindfulness for Social Workers",
-      "organizer": "NASW Michigan",
-      "category": "Breathwork/Mindfulness",
-      "startUtc": "2026-11-26T18:00:00Z",
-      "endUtc": "2026-11-26T19:00:00Z",
+      "id": "pg-20261126-breathe-connect-001",
+      "title": "Breathe and Connect — November Drop-In Class",
+      "organizer": "Jan Aquarius — Live. Grow. Matter.",
+      "category": "Breathwork/Wellness",
+      "startUtc": "2026-11-26T19:00:00Z",
+      "endUtc": "2026-11-26T20:15:00Z",
       "platform": "Zoom",
-      "sourceUrl": "https://nasw-michigan.org/m/event_details.asp?id=2060888",
+      "sourceUrl": "https://www.janaquarius.com/events/conscious-connected-breathwork-november",
       "verification": "verified",
       "route": "registration",
-      "costType": "unknown",
-      "price": "Not stated",
-      "checkedAtUtc": "2026-11-26T14:18:30Z",
-      "sourceLocalStart": "2026-11-26T13:00:00-05:00",
-      "sourceLocalEnd": "2026-11-26T14:00:00-05:00",
-      "sourceZone": "America/New_York",
-      "restriction": "Designed for social workers; Zoom Events registration",
-      "registrationUrl": "https://events.zoom.us/ev/AvkJq-XJy2DSNRZcx-ii8qJFvftzEdfilpFngfciQeTu83hcNWAV~AuHLrd33FNFp7OGh-vWglA7MMHvPfmMVcWiEQ5W7zLUUU97y6vK2f5zfog",
-      "accessNotes": "Date-specific Zoom registration link provided by organizer; no registration submitted.",
+      "costType": "paid",
+      "price": "€12 promotional price (normally €20)",
+      "checkedAtUtc": "2026-11-26T18:20:30Z",
+      "sourceLocalStart": "2026-11-26T20:00:00+01:00",
+      "sourceLocalEnd": "2026-11-26T21:15:00+01:00",
+      "sourceZone": "Europe/Brussels",
+      "restriction": "No experience needed; limited spots; online Zoom",
+      "registrationUrl": "https://www.janaquarius.com/events/conscious-connected-breathwork-november",
+      "accessNotes": "Organizer page gives exact date, UK/Belgium times, Zoom, price and limited-spots registration context; no registration submitted.",
       "joinUrl": ""
     }
   ],
   "unverified": [
     {
-      "title": "Online gentle Yoga, Qi gong & meditation for inner peace",
-      "status": "NEEDS MANUAL CHECK — current page confirms £6 Zoom booking but does not expose the exact occurrence date/time/timezone in the fetched content; do not reuse prior UTC assumption without fresh confirmation.",
-      "sourceUrl": "https://www.meetup.com/sensitives-empaths-creatives-community/events/fqkmktyjcpbjc/"
+      "title": "Free Meditation and Yoga",
+      "status": "NEEDS MANUAL CHECK — Nov 26 19:30–20:45 UTC occurrence is in-window, but the accessible page does not expose a specific direct Zoom URL or explicit registration route for this occurrence.",
+      "sourceUrl": "https://www.meetup.com/free-meditation-yoga-glasgow/events/vzhdbvycgjc/"
     },
     {
-      "title": "VIRTUAL Gentle Movement and Guided Meditation with Meg Artley",
-      "status": "NEEDS MANUAL CHECK — exact source timezone and current access page require account login; cannot establish IST placement from accessible page.",
-      "sourceUrl": "https://aroundtowndc.org/event/gentle-movement-and-guided-meditation-with-meg-artley/2026-11-26"
+      "title": "Thursday Night Meditation and Pranayama",
+      "status": "NEEDS MANUAL CHECK — date/time listed, but source timezone and Zoom/Meet access details are not stated.",
+      "sourceUrl": "https://yogamindspace.com/events/thursday-evening-meditation-and-breath-work/"
     },
     {
-      "title": "Yoga with Walter (Virtual)",
-      "status": "NEEDS MANUAL CHECK — exact timezone and registration/access URL not exposed on accessible page.",
-      "sourceUrl": "https://pjcc.org/event/hatha-yoga-with-walter-2/2026-11-26/"
+      "title": "Tropilaelaps Workshop",
+      "status": "NEEDS MANUAL CHECK — Zoom registration link is present, but exact occurrence start/end time and timezone are not exposed on the accessible page.",
+      "sourceUrl": "https://capabees.com/tropi-workshop/"
     },
     {
-      "title": "Rep & Restore with Christian (Virtual)",
-      "status": "NEEDS MANUAL CHECK — exact timezone and registration/access URL not exposed on accessible page.",
-      "sourceUrl": "https://pjcc.org/event/rep-restore/2026-11-26/"
+      "title": "Community Meditation — Berkeley Zen Center",
+      "status": "NEEDS MANUAL CHECK — public Zoom room is available, but the Nov 26 occurrence time was not exposed on the current page.",
+      "sourceUrl": "https://berkeleyzencenter.org/zoom/"
     },
     {
-      "title": "A Modern Sensory Motor Approach to Developing Awareness",
-      "status": "PAST / EXPIRED — 22:00–23:00 ET = 03:00–04:00 IST on Nov 27, outside this window.",
-      "sourceUrl": "https://feldenkrais.com/event/a-modern-sensory-motor-approach-to-developing-awareness/2026-11-26/"
+      "title": "Evening taster: Mindfulness and compassion",
+      "status": "PAST / EXPIRED — 18:00–19:00 UTC started 3 minutes 45 seconds before T0.",
+      "sourceUrl": "https://www.mindfuldirectory.org/event/evening-taster-mindfulness-and-compassion-free/"
+    },
+    {
+      "title": "OPEN Meditation & Shaktipāt",
+      "status": "PAST / EXPIRED — 17:30 UTC start is before T0; page also contains conflicting display times and two different Zoom registration URLs.",
+      "sourceUrl": "https://leimonte.eu/event/open-meditation-shaktipat-event-with-lina-leimonte-november-26ht-2026/"
+    },
+    {
+      "title": "25 Years Free Online Class — Thankful for Savasana",
+      "status": "PAST / EXPIRED — 17:00 Amsterdam = 16:00 UTC, before T0.",
+      "sourceUrl": "https://www.yogamoves.nl/workshops-events/25years-lizzie"
+    },
+    {
+      "title": "Breathe and Connect / other recurring leads",
+      "status": "Historical or recurring pages were not reused without current occurrence evidence; only the dated Nov 26 page above was retained.",
+      "sourceUrl": "https://www.janaquarius.com/events/conscious-connected-breathwork-november"
     }
   ],
-  "feedRevision": "prompt-g-2026-11-26-193153-ist"
+  "feedRevision": "prompt-g-2026-11-26-233345-ist"
 }
