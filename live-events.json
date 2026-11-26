@@ -1,66 +1,64 @@
 {
   "version": 1,
   "window": {
-    "startUtc": "2026-11-25T22:29:49.000Z",
-    "endUtc": "2026-11-26T03:29:49.000Z"
+    "startUtc": "2026-11-26T06:04:04Z",
+    "endUtc": "2026-11-26T11:04:04Z"
   },
-  "updatedAtUtc": "2026-11-25T22:30:40.000Z",
+  "updatedAtUtc": "2026-11-26T06:08:00Z",
   "checkWindow": {
-    "startUtc": "2026-11-25T22:29:49.000Z",
-    "endUtc": "2026-11-25T22:30:40.000Z"
+    "startUtc": "2026-11-26T06:04:04Z",
+    "endUtc": "2026-11-26T06:08:00Z"
   },
   "events": [
     {
-      "id": "pg-20261126-daily-ew-001",
-      "title": "Daily Online Meditation",
-      "organizer": "Everyday Wellbeing",
-      "category": "Meditation",
-      "startUtc": "2026-11-26T12:00:00.000Z",
-      "endUtc": "2026-11-26T12:20:00.000Z",
+      "id": "pg-20261126-sarah-yoga-qigong-001",
+      "title": "Online gentle Yoga, Qi gong & meditation for inner peace",
+      "organizer": "Sensitives, Empaths & Creatives Community / Sarah M.",
+      "category": "Yoga/Qi gong/Meditation",
+      "startUtc": "2026-11-26T10:00:00Z",
+      "endUtc": "2026-11-26T10:45:00Z",
       "platform": "Zoom",
-      "sourceUrl": "https://everydaywellbeing.org/event-details-registration/daily-online-meditation-2026-11-26-07-00",
+      "sourceUrl": "https://www.meetup.com/sensitives-empaths-creatives-community/events/fqkmktyjcpbjc/",
       "verification": "verified",
-      "route": "direct",
-      "costType": "free",
-      "price": "Free",
-      "checkedAtUtc": "2026-11-25T22:30:40.000Z",
-      "sourceLocalStart": "2026-11-26T07:00:00-05:00",
-      "sourceLocalEnd": "2026-11-26T07:20:00-05:00",
-      "sourceZone": "America/New_York",
-      "restriction": "Everyone welcome",
-      "registrationUrl": "",
-      "accessNotes": "Occurrence page provides public Zoom link; no room entered or access-tested.",
-      "joinUrl": "https://us02web.zoom.us/j/88288716717?pwd=lktOQ11LuQPWexgPNvcK5GZBEOa2LX.1"
-    },
-    {
-      "id": "pg-20261126-hk-001",
-      "title": "Hong Kong Meditation Group AM Session",
-      "organizer": "Hong Kong Meditation Group",
-      "category": "Meditation",
-      "startUtc": "2026-11-26T00:30:00.000Z",
-      "endUtc": "2026-11-26T01:30:00.000Z",
-      "platform": "Zoom",
-      "sourceUrl": "https://pssmglobal.org/event/hong-kong-meditation-group-2-2/2026-11-26",
-      "verification": "manual",
-      "route": "manual",
-      "costType": "unknown",
-      "price": "Not stated",
-      "checkedAtUtc": "2026-11-25T22:30:40.000Z",
-      "sourceLocalStart": "2026-11-26T08:30:00+08:00",
-      "sourceLocalEnd": "2026-11-26T09:30:00+08:00",
-      "sourceZone": "Asia/Hong_Kong",
-      "restriction": "Not established",
-      "registrationUrl": "",
-      "accessNotes": "Page embeds historic 2023 meeting credentials; don't rely on them without fresh organizer confirmation.",
+      "route": "registration",
+      "costType": "paid",
+      "price": "£6",
+      "checkedAtUtc": "2026-11-26T06:07:30Z",
+      "sourceLocalStart": "2026-11-26T10:00:00Z",
+      "sourceLocalEnd": "2026-11-26T10:45:00Z",
+      "sourceZone": "UTC",
+      "restriction": "Public online event; booking required; small regular group; health disclaimer in listing",
+      "registrationUrl": "https://buytickets.at/sarahmonreal/676431",
+      "accessNotes": "Zoom link emailed after booking; no room entered or access-tested.",
       "joinUrl": ""
     }
   ],
   "unverified": [
     {
+      "title": "Weekly Community Sit (Online) — WildHeart",
+      "status": "NEEDS MANUAL CHECK — page fetch blocked; local timezone and exact IST placement not independently verified",
+      "sourceUrl": "https://wildheartcenter.art/event/weekly-community-sit-online/2026-11-26"
+    },
+    {
       "title": "Hong Kong Meditation Group AM Session",
-      "status": "NEEDS MANUAL CHECK — embedded Zoom details are dated 20 April 2023",
+      "status": "NEEDS MANUAL CHECK — 12:30–13:30 IST lead, but source returned 403 and prior page showed stale 2023 Zoom credentials",
       "sourceUrl": "https://pssmglobal.org/event/hong-kong-meditation-group-2-2/2026-11-26"
+    },
+    {
+      "title": "Life With A Baby — Breathe, Smile, Repeat",
+      "status": "NEEDS MANUAL CHECK — exact source timezone missing; free membership required; 10:00–11:00 local listing may be outside window",
+      "sourceUrl": "https://lifewithababy.com/widget/event-6500619"
+    },
+    {
+      "title": "Kagyu Changchub Chuling Morning Meditation",
+      "status": "NEEDS MANUAL CHECK — source timezone missing, so exact IST placement not established",
+      "sourceUrl": "https://staging2.kcc.org/event/morning-meditation-2-2/2026-11-26"
+    },
+    {
+      "title": "Napa Valley Insight Meditation",
+      "status": "PAST / EXPIRED — 09:00–10:00 source local time; outside the frozen IST window or timezone unresolved",
+      "sourceUrl": "https://napainsight.org/event/thursday-morning-online-meditation-8/2026-11-26"
     }
   ],
-  "feedRevision": "prompt-g-2026-11-26-035949-ist"
+  "feedRevision": "prompt-g-2026-11-26-113404-ist"
 }
