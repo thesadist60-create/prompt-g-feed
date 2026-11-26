@@ -53,6 +53,28 @@
       "registrationUrl": "https://sussexmindfulnesscentre.nhs.uk/event/free-mindfulness-taster-33/",
       "accessNotes": "Organizer listing confirms exact date/time, GMT, Zoom, free cost and booking action; direct meeting link not public.",
       "joinUrl": ""
+    },
+    {
+      "id": "pg-20261126-nasw-breath-001",
+      "title": "Thoughtful Thursday: Breathwork & Mindfulness for Social Workers",
+      "organizer": "NASW Michigan",
+      "category": "Breathwork/Mindfulness",
+      "startUtc": "2026-11-26T18:00:00Z",
+      "endUtc": "2026-11-26T19:00:00Z",
+      "platform": "Zoom",
+      "sourceUrl": "https://nasw-michigan.org/m/event_details.asp?id=2060888",
+      "verification": "verified",
+      "route": "registration",
+      "costType": "unknown",
+      "price": "Not stated",
+      "checkedAtUtc": "2026-11-26T14:18:30Z",
+      "sourceLocalStart": "2026-11-26T13:00:00-05:00",
+      "sourceLocalEnd": "2026-11-26T14:00:00-05:00",
+      "sourceZone": "America/New_York",
+      "restriction": "Designed for social workers; Zoom Events registration",
+      "registrationUrl": "https://events.zoom.us/ev/AvkJq-XJy2DSNRZcx-ii8qJFvftzEdfilpFngfciQeTu83hcNWAV~AuHLrd33FNFp7OGh-vWglA7MMHvPfmMVcWiEQ5W7zLUUU97y6vK2f5zfog",
+      "accessNotes": "Date-specific Zoom registration link provided by organizer; no registration submitted.",
+      "joinUrl": ""
     }
   ],
   "unverified": [
@@ -75,11 +97,6 @@
       "title": "Rep & Restore with Christian (Virtual)",
       "status": "NEEDS MANUAL CHECK — exact timezone and registration/access URL not exposed on accessible page.",
       "sourceUrl": "https://pjcc.org/event/rep-restore/2026-11-26/"
-    },
-    {
-      "title": "Thoughtful Thursday: Breathwork & Mindfulness for Social Workers",
-      "status": "PAST / EXPIRED — 13:00–14:00 ET = 18:00–19:00 UTC, but the occurrence ended at T0 window start? Exact start 18:00 UTC is after T0; retain only if within active window; platform Zoom and registration were verified.",
-      "sourceUrl": "https://nasw-michigan.org/m/event_details.asp?id=2060888"
     },
     {
       "title": "A Modern Sensory Motor Approach to Developing Awareness",
